@@ -1,4 +1,4 @@
-***V8_1Tb_CR***
+***V8_1Tb_TLC_CR***
 [
 PARTID	응용처
 PJU	SSD
@@ -7,4 +7,15 @@ PSR	Card
 PJ4	Server
 PM6	Mobile
 PJ6	Auto
+]
+
+***V8_512Gb_TLC_CU***
+[
+PARTID	응용처
+PJS	SSD
+PJT	cSSD
+PS3	Card
+PJ4	Server
+PM4	Mobile
+PJ7	Auto
 ]
