@@ -1,0 +1,3104 @@
+***V8_1Tb_CR***
+[
+MSR	Category	Description	H-Limit	L-Limit
+M_IVC_001	Leakage	Ioff_P_001		
+M_IVC_002	Leakage	Ioff_N_002		
+M_IVC_003	Leakage	Ioff_P_003		
+M_IVC_004	Leakage	Ioff_N_004		
+M_IVC_005	Leakage	Ioff_P_005		
+M_IVC_006	Leakage	Ioff_N_006		
+M_IVC_007	Leakage	Ioff_P_007		
+M_IVC_008	Leakage	Ioff_N_008		
+M_IVC_009	Leakage	Ioff_P_009		
+M_IVC_010	Leakage	Ioff_N_010		
+M_IVC_011	Leakage	Ioff_P_011		
+M_IVC_012	Leakage	Ioff_N_012		
+M_IVC_013	Leakage	Ioff_P_013		
+M_IVC_014	Leakage	Ioff_N_014		
+M_IVC_015	Leakage	Ioff_P_015		
+M_IVC_016	Leakage	Ioff_N_016		
+M_IVC_017	Leakage	Ioff_P_017		
+M_IVC_018	Leakage	Ioff_N_018		
+M_IVC_019	Leakage	Ioff_P_019		
+M_IVC_020	Leakage	Ioff_N_020		
+M_IVC_021	Leakage	Ioff_P_021		
+M_IVC_022	Leakage	Ioff_N_022		
+M_IVC_023	Leakage	Ioff_P_023		
+M_IVC_024	Leakage	Ioff_N_024		
+M_IVC_025	Leakage	Ioff_P_025		
+M_IVC_026	Leakage	Ioff_N_026		
+M_IVC_027	Leakage	Ioff_P_027		
+M_IVC_028	Leakage	Ioff_N_028		
+M_IVC_029	Leakage	Ioff_P_029		
+M_IVC_030	Leakage	Ioff_N_030		
+M_IVC_031	Leakage	Ioff_P_031		
+M_IVC_032	Leakage	Ioff_N_032		
+M_IVC_033	Leakage	Ioff_P_033		
+M_IVC_034	Leakage	Ioff_N_034		
+M_IVC_035	Leakage	Ioff_P_035		
+M_IVC_036	Leakage	Ioff_N_036		
+M_IVC_037	Leakage	Ioff_P_037		
+M_IVC_038	Leakage	Ioff_N_038		
+M_IVC_039	Leakage	Ioff_P_039		
+M_IVC_040	Leakage	Ioff_N_040		
+M_IVC_041	Leakage	Ioff_P_041		
+M_IVC_042	Leakage	Ioff_N_042		
+M_IVC_043	Leakage	Ioff_P_043		
+M_IVC_044	Leakage	Ioff_N_044		
+M_IVC_045	Leakage	Ioff_P_045		
+M_IVC_046	Leakage	Ioff_N_046		
+M_IVC_047	Leakage	Ioff_P_047		
+M_IVC_048	Leakage	Ioff_N_048		
+M_IVC_049	Leakage	Ioff_P_049		
+M_IVC_050	Leakage	Ioff_N_050		
+M_IVC_051	Leakage	Ioff_P_051		
+M_IVC_052	Leakage	Ioff_N_052		
+M_IVC_053	Leakage	Ioff_P_053		
+M_IVC_054	Leakage	Ioff_N_054		
+M_IVC_055	Leakage	Ioff_P_055		
+M_IVC_056	Leakage	Ioff_N_056		
+M_IVC_057	Leakage	Ioff_P_057		
+M_IVC_058	Leakage	Ioff_N_058		
+M_IVC_059	Leakage	Ioff_P_059		
+M_IVC_060	Leakage	Ioff_N_060		
+M_IVC_061	Leakage	Ioff_P_061		
+M_IVC_062	Leakage	Ioff_N_062		
+M_IVC_063	Leakage	Ioff_P_063		
+M_IVC_064	Leakage	Ioff_N_064		
+M_IVC_065	Leakage	Ioff_P_065		
+M_IVC_066	Leakage	Ioff_N_066		
+M_IVC_067	Leakage	Ioff_P_067		
+M_IVC_068	Leakage	Ioff_N_068		
+M_IVC_069	Leakage	Ioff_P_069		
+M_IVC_070	Leakage	Ioff_N_070		
+M_IVC_071	Leakage	Ioff_P_071		
+M_IVC_072	Leakage	Ioff_N_072		
+M_IVC_073	Leakage	Ioff_P_073		
+M_IVC_074	Leakage	Ioff_N_074		
+M_IVC_075	Leakage	Ioff_P_075		
+M_IVC_076	Leakage	Ioff_N_076		
+M_IVC_077	Leakage	Ioff_P_077		
+M_IVC_078	Leakage	Ioff_N_078		
+M_IVC_079	Leakage	Ioff_P_079		
+M_IVC_080	Leakage	Ioff_N_080		
+M_IVC_081	Leakage	Ioff_P_081		
+M_IVC_082	Leakage	Ioff_N_082		
+M_IVC_083	Leakage	Ioff_P_083		
+M_IVC_084	Leakage	Ioff_N_084		
+M_IVC_085	Leakage	Ioff_P_085		
+M_IVC_086	Leakage	Ioff_N_086		
+M_IVC_087	Leakage	Ioff_P_087		
+M_IVC_088	Leakage	Ioff_N_088		
+M_IVC_089	Leakage	Ioff_P_089		
+M_IVC_090	Leakage	Ioff_N_090		
+M_IVC_091	Leakage	Ioff_P_091		
+M_IVC_092	Leakage	Ioff_N_092		
+M_IVC_093	Leakage	Ioff_P_093		
+M_IVC_094	Leakage	Ioff_N_094		
+M_IVC_095	Leakage	Ioff_P_095		
+M_IVC_096	Leakage	Ioff_N_096		
+M_IVC_097	Leakage	Ioff_P_097		
+M_IVC_098	Leakage	Ioff_N_098		
+M_IVC_099	Leakage	Ioff_P_099		
+M_IVC_100	Leakage	Ioff_N_100		
+M_IVC_101	Leakage	Ioff_P_101		
+M_IVC_102	Leakage	Ioff_N_102		
+M_IVC_103	Leakage	Ioff_P_103		
+M_IVC_104	Leakage	Ioff_N_104		
+M_IVC_105	Leakage	Ioff_P_105		
+M_IVC_106	Leakage	Ioff_N_106		
+M_IVC_107	Leakage	Ioff_P_107		
+M_IVC_108	Leakage	Ioff_N_108		
+M_IVC_109	Leakage	Ioff_P_109		
+M_IVC_110	Leakage	Ioff_N_110		
+M_IVC_111	Leakage	Ioff_P_111		
+M_IVC_112	Leakage	Ioff_N_112		
+M_IVC_113	Leakage	Ioff_P_113		
+M_IVC_114	Leakage	Ioff_N_114		
+M_IVC_115	Leakage	Ioff_P_115		
+M_IVC_116	Leakage	Ioff_N_116		
+M_IVC_117	Leakage	Ioff_P_117		
+M_IVC_118	Leakage	Ioff_N_118		
+M_IVC_119	Leakage	Ioff_P_119		
+M_IVC_120	Leakage	Ioff_N_120		
+M_IVC_121	Leakage	Ioff_P_121		
+M_IVC_122	Leakage	Ioff_N_122		
+M_IVC_123	Leakage	Ioff_P_123		
+M_IVC_124	Leakage	Ioff_N_124		
+M_IVC_125	Leakage	Ioff_P_125		
+M_IVC_126	Leakage	Ioff_N_126		
+M_IVC_127	Leakage	Ioff_P_127		
+M_IVC_128	Leakage	Ioff_N_128		
+M_IVC_129	Leakage	Ioff_P_129		
+M_IVC_130	Leakage	Ioff_N_130		
+M_IVC_131	Leakage	Ioff_P_131		
+M_IVC_132	Leakage	Ioff_N_132		
+M_IVC_133	Leakage	Ioff_P_133		
+M_IVC_134	Leakage	Ioff_N_134		
+M_IVC_135	Leakage	Ioff_P_135		
+M_IVC_136	Leakage	Ioff_N_136		
+M_IVC_137	Leakage	Ioff_P_137		
+M_IVC_138	Leakage	Ioff_N_138		
+M_IVC_139	Leakage	Ioff_P_139		
+M_IVC_140	Leakage	Ioff_N_140		
+M_IVC_141	Leakage	Ioff_P_141		
+M_IVC_142	Leakage	Ioff_N_142		
+M_IVC_143	Leakage	Ioff_P_143		
+M_IVC_144	Leakage	Ioff_N_144		
+M_IVC_145	Leakage	Ioff_P_145		
+M_IVC_146	Leakage	Ioff_N_146		
+M_IVC_147	Leakage	Ioff_P_147		
+M_IVC_148	Leakage	Ioff_N_148		
+M_IVC_149	Leakage	Ioff_P_149		
+M_IVC_150	Leakage	Ioff_N_150		
+M_IVC_151	Leakage	Ioff_P_151		
+M_IVC_152	Leakage	Ioff_N_152		
+M_IVC_153	Leakage	Ioff_P_153		
+M_IVC_154	Leakage	Ioff_N_154		
+M_IVC_155	Leakage	Ioff_P_155		
+M_IVC_156	Leakage	Ioff_N_156		
+M_IVC_157	Leakage	Ioff_P_157		
+M_IVC_158	Leakage	Ioff_N_158		
+M_IVC_159	Leakage	Ioff_P_159		
+M_IVC_160	Leakage	Ioff_N_160		
+M_IVC_161	Leakage	Ioff_P_161		
+M_IVC_162	Leakage	Ioff_N_162		
+M_IVC_163	Leakage	Ioff_P_163		
+M_IVC_164	Leakage	Ioff_N_164		
+M_IVC_165	Leakage	Ioff_P_165		
+M_IVC_166	Leakage	Ioff_N_166		
+M_IVC_167	Leakage	Ioff_P_167		
+M_IVC_168	Leakage	Ioff_N_168		
+M_IVC_169	Leakage	Ioff_P_169		
+M_IVC_170	Leakage	Ioff_N_170		
+M_IVC_171	Leakage	Ioff_P_171		
+M_IVC_172	Leakage	Ioff_N_172		
+M_IVC_173	Leakage	Ioff_P_173		
+M_IVC_174	Leakage	Ioff_N_174		
+M_IVC_175	Leakage	Ioff_P_175		
+M_IVC_176	Leakage	Ioff_N_176		
+M_IVC_177	Leakage	Ioff_P_177		
+M_IVC_178	Leakage	Ioff_N_178		
+M_IVC_179	Leakage	Ioff_P_179		
+M_IVC_180	Leakage	Ioff_N_180		
+M_IVC_181	Leakage	Ioff_P_181		
+M_IVC_182	Leakage	Ioff_N_182		
+M_IVC_183	Leakage	Ioff_P_183		
+M_IVC_184	Leakage	Ioff_N_184		
+M_IVC_185	Leakage	Ioff_P_185		
+M_IVC_186	Leakage	Ioff_N_186		
+M_IVC_187	Leakage	Ioff_P_187		
+M_IVC_188	Leakage	Ioff_N_188		
+M_IVC_189	Leakage	Ioff_P_189		
+M_IVC_190	Leakage	Ioff_N_190		
+M_IVC_191	Leakage	Ioff_P_191		
+M_IVC_192	Leakage	Ioff_N_192		
+M_IVC_193	Leakage	Ioff_P_193		
+M_IVC_194	Leakage	Ioff_N_194		
+M_IVC_195	Leakage	Ioff_P_195		
+M_IVC_196	Leakage	Ioff_N_196		
+M_IVC_197	Leakage	Ioff_P_197		
+M_IVC_198	Leakage	Ioff_N_198		
+M_IVC_199	Leakage	Ioff_P_199		
+M_IVC_200	Leakage	Ioff_N_200		
+M_IVC_201	Leakage	Ioff_P_201		
+M_IVC_202	Leakage	Ioff_N_202		
+M_IVC_203	Leakage	Ioff_P_203		
+M_IVC_204	Leakage	Ioff_N_204		
+M_IVC_205	Leakage	Ioff_P_205		
+M_IVC_206	Leakage	Ioff_N_206		
+M_IVC_207	Leakage	Ioff_P_207		
+M_IVC_208	Leakage	Ioff_N_208		
+M_IVC_209	Leakage	Ioff_P_209		
+M_IVC_210	Leakage	Ioff_N_210		
+M_IVC_211	Leakage	Ioff_P_211		
+M_IVC_212	Leakage	Ioff_N_212		
+M_IVC_213	Leakage	Ioff_P_213		
+M_IVC_214	Leakage	Ioff_N_214		
+M_IVC_215	Leakage	Ioff_P_215		
+M_IVC_216	Leakage	Ioff_N_216		
+M_IVC_217	Leakage	Ioff_P_217		
+M_IVC_218	Leakage	Ioff_N_218		
+M_IVC_219	Leakage	Ioff_P_219		
+M_IVC_220	Leakage	Ioff_N_220		
+M_IVC_221	Leakage	Ioff_P_221		
+M_IVC_222	Leakage	Ioff_N_222		
+M_IVC_223	Leakage	Ioff_P_223		
+M_IVC_224	Leakage	Ioff_N_224		
+M_IVC_225	Leakage	Ioff_P_225		
+M_IVC_226	Leakage	Ioff_N_226		
+M_IVC_227	Leakage	Ioff_P_227		
+M_IVC_228	Leakage	Ioff_N_228		
+M_IVC_229	Leakage	Ioff_P_229		
+M_IVC_230	Leakage	Ioff_N_230		
+M_IVC_231	Leakage	Ioff_P_231		
+M_IVC_232	Leakage	Ioff_N_232		
+M_IVC_233	Leakage	Ioff_P_233		
+M_IVC_234	Leakage	Ioff_N_234		
+M_IVC_235	Leakage	Ioff_P_235		
+M_IVC_236	Leakage	Ioff_N_236		
+M_IVC_237	Leakage	Ioff_P_237		
+M_IVC_238	Leakage	Ioff_N_238		
+M_IVC_239	Leakage	Ioff_P_239		
+M_IVC_240	Leakage	Ioff_N_240		
+M_IVC_241	Leakage	Ioff_P_241		
+M_IVC_242	Leakage	Ioff_N_242		
+M_IVC_243	Leakage	Ioff_P_243		
+M_IVC_244	Leakage	Ioff_N_244		
+M_IVC_245	Leakage	Ioff_P_245		
+M_IVC_246	Leakage	Ioff_N_246		
+M_IVC_247	Leakage	Ioff_P_247		
+M_IVC_248	Leakage	Ioff_N_248		
+M_IVC_249	Leakage	Ioff_P_249		
+M_IVC_250	Leakage	Ioff_N_250		
+M_IVC_251	Leakage	Ioff_P_251		
+M_IVC_252	Leakage	Ioff_N_252		
+M_IVC_253	Leakage	Ioff_P_253		
+M_IVC_254	Leakage	Ioff_N_254		
+M_IVC_255	Leakage	Ioff_P_255		
+M_IVC_256	Leakage	Ioff_N_256		
+M_IVC_257	Leakage	Ioff_P_257		
+M_IVC_258	Leakage	Ioff_N_258		
+M_IVC_259	Leakage	Ioff_P_259		
+M_IVC_260	Leakage	Ioff_N_260		
+M_IVC_261	Leakage	Ioff_P_261		
+M_IVC_262	Leakage	Ioff_N_262		
+M_IVC_263	Leakage	Ioff_P_263		
+M_IVC_264	Leakage	Ioff_N_264		
+M_IVC_265	Leakage	Ioff_P_265		
+M_IVC_266	Leakage	Ioff_N_266		
+M_IVC_267	Leakage	Ioff_P_267		
+M_IVC_268	Leakage	Ioff_N_268		
+M_IVC_269	Leakage	Ioff_P_269		
+M_IVC_270	Leakage	Ioff_N_270		
+M_IVC_271	Leakage	Ioff_P_271		
+M_IVC_272	Leakage	Ioff_N_272		
+M_IVC_273	Leakage	Ioff_P_273		
+M_IVC_274	Leakage	Ioff_N_274		
+M_IVC_275	Leakage	Ioff_P_275		
+M_IVC_276	Leakage	Ioff_N_276		
+M_IVC_277	Leakage	Ioff_P_277		
+M_IVC_278	Leakage	Ioff_N_278		
+M_IVC_279	Leakage	Ioff_P_279		
+M_IVC_280	Leakage	Ioff_N_280		
+M_IVC_281	Leakage	Ioff_P_281		
+M_IVC_282	Leakage	Ioff_N_282		
+M_IVC_283	Leakage	Ioff_P_283		
+M_IVC_284	Leakage	Ioff_N_284		
+M_IVC_285	Leakage	Ioff_P_285		
+M_IVC_286	Leakage	Ioff_N_286		
+M_IVC_287	Leakage	Ioff_P_287		
+M_IVC_288	Leakage	Ioff_N_288		
+M_IVC_289	Leakage	Ioff_P_289		
+M_IVC_290	Leakage	Ioff_N_290		
+M_IVC_291	Leakage	Ioff_P_291		
+M_IVC_292	Leakage	Ioff_N_292		
+M_IVC_293	Leakage	Ioff_P_293		
+M_IVC_294	Leakage	Ioff_N_294		
+M_IVC_295	Leakage	Ioff_P_295		
+M_IVC_296	Leakage	Ioff_N_296		
+M_IVC_297	Leakage	Ioff_P_297		
+M_IVC_298	Leakage	Ioff_N_298		
+M_IVC_299	Leakage	Ioff_P_299		
+M_IVC_300	Leakage	Ioff_N_300		
+M_IVC_301	Leakage	Ioff_P_301		
+M_IVC_302	Leakage	Ioff_N_302		
+M_IVC_303	Leakage	Ioff_P_303		
+M_IVC_304	Leakage	Ioff_N_304		
+M_IVC_305	Leakage	Ioff_P_305		
+M_IVC_306	Leakage	Ioff_N_306		
+M_IVC_307	Leakage	Ioff_P_307		
+M_IVC_308	Leakage	Ioff_N_308		
+M_IVC_309	Leakage	Ioff_P_309		
+M_IVC_310	Leakage	Ioff_N_310		
+M_KLN_001	Contact	Rc_P_001		
+M_KLN_002	Contact	Rc_N_002		
+M_KLN_003	Contact	Rc_P_003		
+M_KLN_004	Contact	Rc_N_004		
+M_KLN_005	Contact	Rc_P_005		
+M_KLN_006	Contact	Rc_N_006		
+M_KLN_007	Contact	Rc_P_007		
+M_KLN_008	Contact	Rc_N_008		
+M_KLN_009	Contact	Rc_P_009		
+M_KLN_010	Contact	Rc_N_010		
+M_KLN_011	Contact	Rc_P_011		
+M_KLN_012	Contact	Rc_N_012		
+M_KLN_013	Contact	Rc_P_013		
+M_KLN_014	Contact	Rc_N_014		
+M_KLN_015	Contact	Rc_P_015		
+M_KLN_016	Contact	Rc_N_016		
+M_KLN_017	Contact	Rc_P_017		
+M_KLN_018	Contact	Rc_N_018		
+M_KLN_019	Contact	Rc_P_019		
+M_KLN_020	Contact	Rc_N_020		
+M_KLN_021	Contact	Rc_P_021		
+M_KLN_022	Contact	Rc_N_022		
+M_KLN_023	Contact	Rc_P_023		
+M_KLN_024	Contact	Rc_N_024		
+M_KLN_025	Contact	Rc_P_025		
+M_KLN_026	Contact	Rc_N_026		
+M_KLN_027	Contact	Rc_P_027		
+M_KLN_028	Contact	Rc_N_028		
+M_KLN_029	Contact	Rc_P_029		
+M_KLN_030	Contact	Rc_N_030		
+M_KLN_031	Contact	Rc_P_031		
+M_KLN_032	Contact	Rc_N_032		
+M_KLN_033	Contact	Rc_P_033		
+M_KLN_034	Contact	Rc_N_034		
+M_KLN_035	Contact	Rc_P_035		
+M_KLN_036	Contact	Rc_N_036		
+M_KLN_037	Contact	Rc_P_037		
+M_KLN_038	Contact	Rc_N_038		
+M_KLN_039	Contact	Rc_P_039		
+M_KLN_040	Contact	Rc_N_040		
+M_KLN_041	Contact	Rc_P_041		
+M_KLN_042	Contact	Rc_N_042		
+M_KLN_043	Contact	Rc_P_043		
+M_KLN_044	Contact	Rc_N_044		
+M_KLN_045	Contact	Rc_P_045		
+M_KLN_046	Contact	Rc_N_046		
+M_KLN_047	Contact	Rc_P_047		
+M_KLN_048	Contact	Rc_N_048		
+M_KLN_049	Contact	Rc_P_049		
+M_KLN_050	Contact	Rc_N_050		
+M_KLN_051	Contact	Rc_P_051		
+M_KLN_052	Contact	Rc_N_052		
+M_KLN_053	Contact	Rc_P_053		
+M_KLN_054	Contact	Rc_N_054		
+M_KLN_055	Contact	Rc_P_055		
+M_KLN_056	Contact	Rc_N_056		
+M_KLN_057	Contact	Rc_P_057		
+M_KLN_058	Contact	Rc_N_058		
+M_KLN_059	Contact	Rc_P_059		
+M_KLN_060	Contact	Rc_N_060		
+M_KLN_061	Contact	Rc_P_061		
+M_KLN_062	Contact	Rc_N_062		
+M_KLN_063	Contact	Rc_P_063		
+M_KLN_064	Contact	Rc_N_064		
+M_KLN_065	Contact	Rc_P_065		
+M_KLN_066	Contact	Rc_N_066		
+M_KLN_067	Contact	Rc_P_067		
+M_KLN_068	Contact	Rc_N_068		
+M_KLN_069	Contact	Rc_P_069		
+M_KLN_070	Contact	Rc_N_070		
+M_KLN_071	Contact	Rc_P_071		
+M_KLN_072	Contact	Rc_N_072		
+M_KLN_073	Contact	Rc_P_073		
+M_KLN_074	Contact	Rc_N_074		
+M_KLN_075	Contact	Rc_P_075		
+M_KLN_076	Contact	Rc_N_076		
+M_KLN_077	Contact	Rc_P_077		
+M_KLN_078	Contact	Rc_N_078		
+M_KLN_079	Contact	Rc_P_079		
+M_KLN_080	Contact	Rc_N_080		
+M_KLN_081	Contact	Rc_P_081		
+M_KLN_082	Contact	Rc_N_082		
+M_KLN_083	Contact	Rc_P_083		
+M_KLN_084	Contact	Rc_N_084		
+M_KLN_085	Contact	Rc_P_085		
+M_KLN_086	Contact	Rc_N_086		
+M_KLN_087	Contact	Rc_P_087		
+M_KLN_088	Contact	Rc_N_088		
+M_KLN_089	Contact	Rc_P_089		
+M_KLN_090	Contact	Rc_N_090		
+M_KLN_091	Contact	Rc_P_091		
+M_KLN_092	Contact	Rc_N_092		
+M_KLN_093	Contact	Rc_P_093		
+M_KLN_094	Contact	Rc_N_094		
+M_KLN_095	Contact	Rc_P_095		
+M_KLN_096	Contact	Rc_N_096		
+M_KLN_097	Contact	Rc_P_097		
+M_KLN_098	Contact	Rc_N_098		
+M_KLN_099	Contact	Rc_P_099		
+M_KLN_100	Contact	Rc_N_100		
+M_KLN_101	Contact	Rc_P_101		
+M_KLN_102	Contact	Rc_N_102		
+M_KLN_103	Contact	Rc_P_103		
+M_KLN_104	Contact	Rc_N_104		
+M_KLN_105	Contact	Rc_P_105		
+M_KLN_106	Contact	Rc_N_106		
+M_KLN_107	Contact	Rc_P_107		
+M_KLN_108	Contact	Rc_N_108		
+M_KLN_109	Contact	Rc_P_109		
+M_KLN_110	Contact	Rc_N_110		
+M_KLN_111	Contact	Rc_P_111		
+M_KLN_112	Contact	Rc_N_112		
+M_KLN_113	Contact	Rc_P_113		
+M_KLN_114	Contact	Rc_N_114		
+M_KLN_115	Contact	Rc_P_115		
+M_KLN_116	Contact	Rc_N_116		
+M_KLN_117	Contact	Rc_P_117		
+M_KLN_118	Contact	Rc_N_118		
+M_KLN_119	Contact	Rc_P_119		
+M_KLN_120	Contact	Rc_N_120		
+M_KLN_121	Contact	Rc_P_121		
+M_KLN_122	Contact	Rc_N_122		
+M_KLN_123	Contact	Rc_P_123		
+M_KLN_124	Contact	Rc_N_124		
+M_KLN_125	Contact	Rc_P_125		
+M_KLN_126	Contact	Rc_N_126		
+M_KLN_127	Contact	Rc_P_127		
+M_KLN_128	Contact	Rc_N_128		
+M_KLN_129	Contact	Rc_P_129		
+M_KLN_130	Contact	Rc_N_130		
+M_KLN_131	Contact	Rc_P_131		
+M_KLN_132	Contact	Rc_N_132		
+M_KLN_133	Contact	Rc_P_133		
+M_KLN_134	Contact	Rc_N_134		
+M_KLN_135	Contact	Rc_P_135		
+M_KLN_136	Contact	Rc_N_136		
+M_KLN_137	Contact	Rc_P_137		
+M_KLN_138	Contact	Rc_N_138		
+M_KLN_139	Contact	Rc_P_139		
+M_KLN_140	Contact	Rc_N_140		
+M_KLN_141	Contact	Rc_P_141		
+M_KLN_142	Contact	Rc_N_142		
+M_KLN_143	Contact	Rc_P_143		
+M_KLN_144	Contact	Rc_N_144		
+M_KLN_145	Contact	Rc_P_145		
+M_KLN_146	Contact	Rc_N_146		
+M_KLN_147	Contact	Rc_P_147		
+M_KLN_148	Contact	Rc_N_148		
+M_KLN_149	Contact	Rc_P_149		
+M_KLN_150	Contact	Rc_N_150		
+M_KLN_151	Contact	Rc_P_151		
+M_KLN_152	Contact	Rc_N_152		
+M_KLN_153	Contact	Rc_P_153		
+M_KLN_154	Contact	Rc_N_154		
+M_KLN_155	Contact	Rc_P_155		
+M_KLN_156	Contact	Rc_N_156		
+M_KLN_157	Contact	Rc_P_157		
+M_KLN_158	Contact	Rc_N_158		
+M_KLN_159	Contact	Rc_P_159		
+M_KLN_160	Contact	Rc_N_160		
+M_KLN_161	Contact	Rc_P_161		
+M_KLN_162	Contact	Rc_N_162		
+M_KLN_163	Contact	Rc_P_163		
+M_KLN_164	Contact	Rc_N_164		
+M_KLN_165	Contact	Rc_P_165		
+M_KLN_166	Contact	Rc_N_166		
+M_KLN_167	Contact	Rc_P_167		
+M_KLN_168	Contact	Rc_N_168		
+M_KLN_169	Contact	Rc_P_169		
+M_KLN_170	Contact	Rc_N_170		
+M_KLN_171	Contact	Rc_P_171		
+M_KLN_172	Contact	Rc_N_172		
+M_KLN_173	Contact	Rc_P_173		
+M_KLN_174	Contact	Rc_N_174		
+M_KLN_175	Contact	Rc_P_175		
+M_KLN_176	Contact	Rc_N_176		
+M_KLN_177	Contact	Rc_P_177		
+M_KLN_178	Contact	Rc_N_178		
+M_KLN_179	Contact	Rc_P_179		
+M_KLN_180	Contact	Rc_N_180		
+M_KLN_181	Contact	Rc_P_181		
+M_KLN_182	Contact	Rc_N_182		
+M_KLN_183	Contact	Rc_P_183		
+M_KLN_184	Contact	Rc_N_184		
+M_KLN_185	Contact	Rc_P_185		
+M_KLN_186	Contact	Rc_N_186		
+M_KLN_187	Contact	Rc_P_187		
+M_KLN_188	Contact	Rc_N_188		
+M_KLN_189	Contact	Rc_P_189		
+M_KLN_190	Contact	Rc_N_190		
+M_KLN_191	Contact	Rc_P_191		
+M_KLN_192	Contact	Rc_N_192		
+M_KLN_193	Contact	Rc_P_193		
+M_KLN_194	Contact	Rc_N_194		
+M_KLN_195	Contact	Rc_P_195		
+M_KLN_196	Contact	Rc_N_196		
+M_KLN_197	Contact	Rc_P_197		
+M_KLN_198	Contact	Rc_N_198		
+M_KLN_199	Contact	Rc_P_199		
+M_KLN_200	Contact	Rc_N_200		
+M_KLN_201	Contact	Rc_P_201		
+M_KLN_202	Contact	Rc_N_202		
+M_KLN_203	Contact	Rc_P_203		
+M_KLN_204	Contact	Rc_N_204		
+M_KLN_205	Contact	Rc_P_205		
+M_KLN_206	Contact	Rc_N_206		
+M_KLN_207	Contact	Rc_P_207		
+M_KLN_208	Contact	Rc_N_208		
+M_KLN_209	Contact	Rc_P_209		
+M_KLN_210	Contact	Rc_N_210		
+M_KLN_211	Contact	Rc_P_211		
+M_KLN_212	Contact	Rc_N_212		
+M_KLN_213	Contact	Rc_P_213		
+M_KLN_214	Contact	Rc_N_214		
+M_KLN_215	Contact	Rc_P_215		
+M_KLN_216	Contact	Rc_N_216		
+M_KLN_217	Contact	Rc_P_217		
+M_KLN_218	Contact	Rc_N_218		
+M_KLN_219	Contact	Rc_P_219		
+M_KLN_220	Contact	Rc_N_220		
+M_KLN_221	Contact	Rc_P_221		
+M_KLN_222	Contact	Rc_N_222		
+M_KLN_223	Contact	Rc_P_223		
+M_KLN_224	Contact	Rc_N_224		
+M_KLN_225	Contact	Rc_P_225		
+M_KLN_226	Contact	Rc_N_226		
+M_KLN_227	Contact	Rc_P_227		
+M_KLN_228	Contact	Rc_N_228		
+M_KLN_229	Contact	Rc_P_229		
+M_KLN_230	Contact	Rc_N_230		
+M_KLN_231	Contact	Rc_P_231		
+M_KLN_232	Contact	Rc_N_232		
+M_KLN_233	Contact	Rc_P_233		
+M_KLN_234	Contact	Rc_N_234		
+M_KLN_235	Contact	Rc_P_235		
+M_KLN_236	Contact	Rc_N_236		
+M_KLN_237	Contact	Rc_P_237		
+M_KLN_238	Contact	Rc_N_238		
+M_KLN_239	Contact	Rc_P_239		
+M_KLN_240	Contact	Rc_N_240		
+M_KLN_241	Contact	Rc_P_241		
+M_KLN_242	Contact	Rc_N_242		
+M_KLN_243	Contact	Rc_P_243		
+M_KLN_244	Contact	Rc_N_244		
+M_KLN_245	Contact	Rc_P_245		
+M_KLN_246	Contact	Rc_N_246		
+M_KLN_247	Contact	Rc_P_247		
+M_KLN_248	Contact	Rc_N_248		
+M_KLN_249	Contact	Rc_P_249		
+M_KLN_250	Contact	Rc_N_250		
+M_KLN_251	Contact	Rc_P_251		
+M_KLN_252	Contact	Rc_N_252		
+M_KLN_253	Contact	Rc_P_253		
+M_KLN_254	Contact	Rc_N_254		
+M_KLN_255	Contact	Rc_P_255		
+M_KLN_256	Contact	Rc_N_256		
+M_KLN_257	Contact	Rc_P_257		
+M_KLN_258	Contact	Rc_N_258		
+M_KLN_259	Contact	Rc_P_259		
+M_KLN_260	Contact	Rc_N_260		
+M_KLN_261	Contact	Rc_P_261		
+M_KLN_262	Contact	Rc_N_262		
+M_KLN_263	Contact	Rc_P_263		
+M_KLN_264	Contact	Rc_N_264		
+M_KLN_265	Contact	Rc_P_265		
+M_KLN_266	Contact	Rc_N_266		
+M_KLN_267	Contact	Rc_P_267		
+M_KLN_268	Contact	Rc_N_268		
+M_KLN_269	Contact	Rc_P_269		
+M_KLN_270	Contact	Rc_N_270		
+M_KLN_271	Contact	Rc_P_271		
+M_KLN_272	Contact	Rc_N_272		
+M_KLN_273	Contact	Rc_P_273		
+M_KLN_274	Contact	Rc_N_274		
+M_KLN_275	Contact	Rc_P_275		
+M_KLN_276	Contact	Rc_N_276		
+M_KLN_277	Contact	Rc_P_277		
+M_KLN_278	Contact	Rc_N_278		
+M_KLN_279	Contact	Rc_P_279		
+M_KLN_280	Contact	Rc_N_280		
+M_KLN_281	Contact	Rc_P_281		
+M_KLN_282	Contact	Rc_N_282		
+M_KLN_283	Contact	Rc_P_283		
+M_KLN_284	Contact	Rc_N_284		
+M_KLN_285	Contact	Rc_P_285		
+M_KLN_286	Contact	Rc_N_286		
+M_KLN_287	Contact	Rc_P_287		
+M_KLN_288	Contact	Rc_N_288		
+M_KLN_289	Contact	Rc_P_289		
+M_KLN_290	Contact	Rc_N_290		
+M_KLN_291	Contact	Rc_P_291		
+M_KLN_292	Contact	Rc_N_292		
+M_KLN_293	Contact	Rc_P_293		
+M_KLN_294	Contact	Rc_N_294		
+M_KLN_295	Contact	Rc_P_295		
+M_KLN_296	Contact	Rc_N_296		
+M_KLN_297	Contact	Rc_P_297		
+M_KLN_298	Contact	Rc_N_298		
+M_KLN_299	Contact	Rc_P_299		
+M_KLN_300	Contact	Rc_N_300		
+M_KLN_301	Contact	Rc_P_301		
+M_KLN_302	Contact	Rc_N_302		
+M_KLN_303	Contact	Rc_P_303		
+M_KLN_304	Contact	Rc_N_304		
+M_KLN_305	Contact	Rc_P_305		
+M_KLN_306	Contact	Rc_N_306		
+M_KLN_307	Contact	Rc_P_307		
+M_KLN_308	Contact	Rc_N_308		
+M_KLN_309	Contact	Rc_P_309		
+M_KLN_310	Contact	Rc_N_310		
+P_TML_001	Timing	Tpd_P_001		
+P_TML_002	Timing	Tpd_N_002		
+P_TML_003	Timing	Tpd_P_003		
+P_TML_004	Timing	Tpd_N_004		
+P_TML_005	Timing	Tpd_P_005		
+P_TML_006	Timing	Tpd_N_006		
+P_TML_007	Timing	Tpd_P_007		
+P_TML_008	Timing	Tpd_N_008		
+P_TML_009	Timing	Tpd_P_009		
+P_TML_010	Timing	Tpd_N_010		
+P_TML_011	Timing	Tpd_P_011		
+P_TML_012	Timing	Tpd_N_012		
+P_TML_013	Timing	Tpd_P_013		
+P_TML_014	Timing	Tpd_N_014		
+P_TML_015	Timing	Tpd_P_015		
+P_TML_016	Timing	Tpd_N_016		
+P_TML_017	Timing	Tpd_P_017		
+P_TML_018	Timing	Tpd_N_018		
+P_TML_019	Timing	Tpd_P_019		
+P_TML_020	Timing	Tpd_N_020		
+P_TML_021	Timing	Tpd_P_021		
+P_TML_022	Timing	Tpd_N_022		
+P_TML_023	Timing	Tpd_P_023		
+P_TML_024	Timing	Tpd_N_024		
+P_TML_025	Timing	Tpd_P_025		
+P_TML_026	Timing	Tpd_N_026		
+P_TML_027	Timing	Tpd_P_027		
+P_TML_028	Timing	Tpd_N_028		
+P_TML_029	Timing	Tpd_P_029		
+P_TML_030	Timing	Tpd_N_030		
+P_TML_031	Timing	Tpd_P_031		
+P_TML_032	Timing	Tpd_N_032		
+P_TML_033	Timing	Tpd_P_033		
+P_TML_034	Timing	Tpd_N_034		
+P_TML_035	Timing	Tpd_P_035		
+P_TML_036	Timing	Tpd_N_036		
+P_TML_037	Timing	Tpd_P_037		
+P_TML_038	Timing	Tpd_N_038		
+P_TML_039	Timing	Tpd_P_039		
+P_TML_040	Timing	Tpd_N_040		
+P_TML_041	Timing	Tpd_P_041		
+P_TML_042	Timing	Tpd_N_042		
+P_TML_043	Timing	Tpd_P_043		
+P_TML_044	Timing	Tpd_N_044		
+P_TML_045	Timing	Tpd_P_045		
+P_TML_046	Timing	Tpd_N_046		
+P_TML_047	Timing	Tpd_P_047		
+P_TML_048	Timing	Tpd_N_048		
+P_TML_049	Timing	Tpd_P_049		
+P_TML_050	Timing	Tpd_N_050		
+P_TML_051	Timing	Tpd_P_051		
+P_TML_052	Timing	Tpd_N_052		
+P_TML_053	Timing	Tpd_P_053		
+P_TML_054	Timing	Tpd_N_054		
+P_TML_055	Timing	Tpd_P_055		
+P_TML_056	Timing	Tpd_N_056		
+P_TML_057	Timing	Tpd_P_057		
+P_TML_058	Timing	Tpd_N_058		
+P_TML_059	Timing	Tpd_P_059		
+P_TML_060	Timing	Tpd_N_060		
+P_TML_061	Timing	Tpd_P_061		
+P_TML_062	Timing	Tpd_N_062		
+P_TML_063	Timing	Tpd_P_063		
+P_TML_064	Timing	Tpd_N_064		
+P_TML_065	Timing	Tpd_P_065		
+P_TML_066	Timing	Tpd_N_066		
+P_TML_067	Timing	Tpd_P_067		
+P_TML_068	Timing	Tpd_N_068		
+P_TML_069	Timing	Tpd_P_069		
+P_TML_070	Timing	Tpd_N_070		
+P_TML_071	Timing	Tpd_P_071		
+P_TML_072	Timing	Tpd_N_072		
+P_TML_073	Timing	Tpd_P_073		
+P_TML_074	Timing	Tpd_N_074		
+P_TML_075	Timing	Tpd_P_075		
+P_TML_076	Timing	Tpd_N_076		
+P_TML_077	Timing	Tpd_P_077		
+P_TML_078	Timing	Tpd_N_078		
+P_TML_079	Timing	Tpd_P_079		
+P_TML_080	Timing	Tpd_N_080		
+P_TML_081	Timing	Tpd_P_081		
+P_TML_082	Timing	Tpd_N_082		
+P_TML_083	Timing	Tpd_P_083		
+P_TML_084	Timing	Tpd_N_084		
+P_TML_085	Timing	Tpd_P_085		
+P_TML_086	Timing	Tpd_N_086		
+P_TML_087	Timing	Tpd_P_087		
+P_TML_088	Timing	Tpd_N_088		
+P_TML_089	Timing	Tpd_P_089		
+P_TML_090	Timing	Tpd_N_090		
+P_TML_091	Timing	Tpd_P_091		
+P_TML_092	Timing	Tpd_N_092		
+P_TML_093	Timing	Tpd_P_093		
+P_TML_094	Timing	Tpd_N_094		
+P_TML_095	Timing	Tpd_P_095		
+P_TML_096	Timing	Tpd_N_096		
+P_TML_097	Timing	Tpd_P_097		
+P_TML_098	Timing	Tpd_N_098		
+P_TML_099	Timing	Tpd_P_099		
+P_TML_100	Timing	Tpd_N_100		
+P_TML_101	Timing	Tpd_P_101		
+P_TML_102	Timing	Tpd_N_102		
+P_TML_103	Timing	Tpd_P_103		
+P_TML_104	Timing	Tpd_N_104		
+P_TML_105	Timing	Tpd_P_105		
+P_TML_106	Timing	Tpd_N_106		
+P_TML_107	Timing	Tpd_P_107		
+P_TML_108	Timing	Tpd_N_108		
+P_TML_109	Timing	Tpd_P_109		
+P_TML_110	Timing	Tpd_N_110		
+P_TML_111	Timing	Tpd_P_111		
+P_TML_112	Timing	Tpd_N_112		
+P_TML_113	Timing	Tpd_P_113		
+P_TML_114	Timing	Tpd_N_114		
+P_TML_115	Timing	Tpd_P_115		
+P_TML_116	Timing	Tpd_N_116		
+P_TML_117	Timing	Tpd_P_117		
+P_TML_118	Timing	Tpd_N_118		
+P_TML_119	Timing	Tpd_P_119		
+P_TML_120	Timing	Tpd_N_120		
+P_TML_121	Timing	Tpd_P_121		
+P_TML_122	Timing	Tpd_N_122		
+P_TML_123	Timing	Tpd_P_123		
+P_TML_124	Timing	Tpd_N_124		
+P_TML_125	Timing	Tpd_P_125		
+P_TML_126	Timing	Tpd_N_126		
+P_TML_127	Timing	Tpd_P_127		
+P_TML_128	Timing	Tpd_N_128		
+P_TML_129	Timing	Tpd_P_129		
+P_TML_130	Timing	Tpd_N_130		
+P_TML_131	Timing	Tpd_P_131		
+P_TML_132	Timing	Tpd_N_132		
+P_TML_133	Timing	Tpd_P_133		
+P_TML_134	Timing	Tpd_N_134		
+P_TML_135	Timing	Tpd_P_135		
+P_TML_136	Timing	Tpd_N_136		
+P_TML_137	Timing	Tpd_P_137		
+P_TML_138	Timing	Tpd_N_138		
+P_TML_139	Timing	Tpd_P_139		
+P_TML_140	Timing	Tpd_N_140		
+P_TML_141	Timing	Tpd_P_141		
+P_TML_142	Timing	Tpd_N_142		
+P_TML_143	Timing	Tpd_P_143		
+P_TML_144	Timing	Tpd_N_144		
+P_TML_145	Timing	Tpd_P_145		
+P_TML_146	Timing	Tpd_N_146		
+P_TML_147	Timing	Tpd_P_147		
+P_TML_148	Timing	Tpd_N_148		
+P_TML_149	Timing	Tpd_P_149		
+P_TML_150	Timing	Tpd_N_150		
+P_TML_151	Timing	Tpd_P_151		
+P_TML_152	Timing	Tpd_N_152		
+P_TML_153	Timing	Tpd_P_153		
+P_TML_154	Timing	Tpd_N_154		
+P_TML_155	Timing	Tpd_P_155		
+P_TML_156	Timing	Tpd_N_156		
+P_TML_157	Timing	Tpd_P_157		
+P_TML_158	Timing	Tpd_N_158		
+P_TML_159	Timing	Tpd_P_159		
+P_TML_160	Timing	Tpd_N_160		
+P_TML_161	Timing	Tpd_P_161		
+P_TML_162	Timing	Tpd_N_162		
+P_TML_163	Timing	Tpd_P_163		
+P_TML_164	Timing	Tpd_N_164		
+P_TML_165	Timing	Tpd_P_165		
+P_TML_166	Timing	Tpd_N_166		
+P_TML_167	Timing	Tpd_P_167		
+P_TML_168	Timing	Tpd_N_168		
+P_TML_169	Timing	Tpd_P_169		
+P_TML_170	Timing	Tpd_N_170		
+P_TML_171	Timing	Tpd_P_171		
+P_TML_172	Timing	Tpd_N_172		
+P_TML_173	Timing	Tpd_P_173		
+P_TML_174	Timing	Tpd_N_174		
+P_TML_175	Timing	Tpd_P_175		
+P_TML_176	Timing	Tpd_N_176		
+P_TML_177	Timing	Tpd_P_177		
+P_TML_178	Timing	Tpd_N_178		
+P_TML_179	Timing	Tpd_P_179		
+P_TML_180	Timing	Tpd_N_180		
+P_TML_181	Timing	Tpd_P_181		
+P_TML_182	Timing	Tpd_N_182		
+P_TML_183	Timing	Tpd_P_183		
+P_TML_184	Timing	Tpd_N_184		
+P_TML_185	Timing	Tpd_P_185		
+P_TML_186	Timing	Tpd_N_186		
+P_TML_187	Timing	Tpd_P_187		
+P_TML_188	Timing	Tpd_N_188		
+P_TML_189	Timing	Tpd_P_189		
+P_TML_190	Timing	Tpd_N_190		
+P_TML_191	Timing	Tpd_P_191		
+P_TML_192	Timing	Tpd_N_192		
+P_TML_193	Timing	Tpd_P_193		
+P_TML_194	Timing	Tpd_N_194		
+P_TML_195	Timing	Tpd_P_195		
+P_TML_196	Timing	Tpd_N_196		
+P_TML_197	Timing	Tpd_P_197		
+P_TML_198	Timing	Tpd_N_198		
+P_TML_199	Timing	Tpd_P_199		
+P_TML_200	Timing	Tpd_N_200		
+P_TML_201	Timing	Tpd_P_201		
+P_TML_202	Timing	Tpd_N_202		
+P_TML_203	Timing	Tpd_P_203		
+P_TML_204	Timing	Tpd_N_204		
+P_TML_205	Timing	Tpd_P_205		
+P_TML_206	Timing	Tpd_N_206		
+P_TML_207	Timing	Tpd_P_207		
+P_TML_208	Timing	Tpd_N_208		
+P_TML_209	Timing	Tpd_P_209		
+P_TML_210	Timing	Tpd_N_210		
+P_TML_211	Timing	Tpd_P_211		
+P_TML_212	Timing	Tpd_N_212		
+P_TML_213	Timing	Tpd_P_213		
+P_TML_214	Timing	Tpd_N_214		
+P_TML_215	Timing	Tpd_P_215		
+P_TML_216	Timing	Tpd_N_216		
+P_TML_217	Timing	Tpd_P_217		
+P_TML_218	Timing	Tpd_N_218		
+P_TML_219	Timing	Tpd_P_219		
+P_TML_220	Timing	Tpd_N_220		
+P_TML_221	Timing	Tpd_P_221		
+P_TML_222	Timing	Tpd_N_222		
+P_TML_223	Timing	Tpd_P_223		
+P_TML_224	Timing	Tpd_N_224		
+P_TML_225	Timing	Tpd_P_225		
+P_TML_226	Timing	Tpd_N_226		
+P_TML_227	Timing	Tpd_P_227		
+P_TML_228	Timing	Tpd_N_228		
+P_TML_229	Timing	Tpd_P_229		
+P_TML_230	Timing	Tpd_N_230		
+P_TML_231	Timing	Tpd_P_231		
+P_TML_232	Timing	Tpd_N_232		
+P_TML_233	Timing	Tpd_P_233		
+P_TML_234	Timing	Tpd_N_234		
+P_TML_235	Timing	Tpd_P_235		
+P_TML_236	Timing	Tpd_N_236		
+P_TML_237	Timing	Tpd_P_237		
+P_TML_238	Timing	Tpd_N_238		
+P_TML_239	Timing	Tpd_P_239		
+P_TML_240	Timing	Tpd_N_240		
+P_TML_241	Timing	Tpd_P_241		
+P_TML_242	Timing	Tpd_N_242		
+P_TML_243	Timing	Tpd_P_243		
+P_TML_244	Timing	Tpd_N_244		
+P_TML_245	Timing	Tpd_P_245		
+P_TML_246	Timing	Tpd_N_246		
+P_TML_247	Timing	Tpd_P_247		
+P_TML_248	Timing	Tpd_N_248		
+P_TML_249	Timing	Tpd_P_249		
+P_TML_250	Timing	Tpd_N_250		
+P_TML_251	Timing	Tpd_P_251		
+P_TML_252	Timing	Tpd_N_252		
+P_TML_253	Timing	Tpd_P_253		
+P_TML_254	Timing	Tpd_N_254		
+P_TML_255	Timing	Tpd_P_255		
+P_TML_256	Timing	Tpd_N_256		
+P_TML_257	Timing	Tpd_P_257		
+P_TML_258	Timing	Tpd_N_258		
+P_TML_259	Timing	Tpd_P_259		
+P_TML_260	Timing	Tpd_N_260		
+P_TML_261	Timing	Tpd_P_261		
+P_TML_262	Timing	Tpd_N_262		
+P_TML_263	Timing	Tpd_P_263		
+P_TML_264	Timing	Tpd_N_264		
+P_TML_265	Timing	Tpd_P_265		
+P_TML_266	Timing	Tpd_N_266		
+P_TML_267	Timing	Tpd_P_267		
+P_TML_268	Timing	Tpd_N_268		
+P_TML_269	Timing	Tpd_P_269		
+P_TML_270	Timing	Tpd_N_270		
+P_TML_271	Timing	Tpd_P_271		
+P_TML_272	Timing	Tpd_N_272		
+P_TML_273	Timing	Tpd_P_273		
+P_TML_274	Timing	Tpd_N_274		
+P_TML_275	Timing	Tpd_P_275		
+P_TML_276	Timing	Tpd_N_276		
+P_TML_277	Timing	Tpd_P_277		
+P_TML_278	Timing	Tpd_N_278		
+P_TML_279	Timing	Tpd_P_279		
+P_TML_280	Timing	Tpd_N_280		
+P_TML_281	Timing	Tpd_P_281		
+P_TML_282	Timing	Tpd_N_282		
+P_TML_283	Timing	Tpd_P_283		
+P_TML_284	Timing	Tpd_N_284		
+P_TML_285	Timing	Tpd_P_285		
+P_TML_286	Timing	Tpd_N_286		
+P_TML_287	Timing	Tpd_P_287		
+P_TML_288	Timing	Tpd_N_288		
+P_TML_289	Timing	Tpd_P_289		
+P_TML_290	Timing	Tpd_N_290		
+P_TML_291	Timing	Tpd_P_291		
+P_TML_292	Timing	Tpd_N_292		
+P_TML_293	Timing	Tpd_P_293		
+P_TML_294	Timing	Tpd_N_294		
+P_TML_295	Timing	Tpd_P_295		
+P_TML_296	Timing	Tpd_N_296		
+P_TML_297	Timing	Tpd_P_297		
+P_TML_298	Timing	Tpd_N_298		
+P_TML_299	Timing	Tpd_P_299		
+P_TML_300	Timing	Tpd_N_300		
+P_TML_301	Timing	Tpd_P_301		
+P_TML_302	Timing	Tpd_N_302		
+P_TML_303	Timing	Tpd_P_303		
+P_TML_304	Timing	Tpd_N_304		
+P_TML_305	Timing	Tpd_P_305		
+P_TML_306	Timing	Tpd_N_306		
+P_TML_307	Timing	Tpd_P_307		
+P_TML_308	Timing	Tpd_N_308		
+P_TML_309	Timing	Tpd_P_309		
+P_TML_310	Timing	Tpd_N_310		
+M_NML_001	Mobility	Gm_P_001		
+M_NML_002	Mobility	Gm_N_002		
+M_NML_003	Mobility	Gm_P_003		
+M_NML_004	Mobility	Gm_N_004		
+M_NML_005	Mobility	Gm_P_005		
+M_NML_006	Mobility	Gm_N_006		
+M_NML_007	Mobility	Gm_P_007		
+M_NML_008	Mobility	Gm_N_008		
+M_NML_009	Mobility	Gm_P_009		
+M_NML_010	Mobility	Gm_N_010		
+M_NML_011	Mobility	Gm_P_011		
+M_NML_012	Mobility	Gm_N_012		
+M_NML_013	Mobility	Gm_P_013		
+M_NML_014	Mobility	Gm_N_014		
+M_NML_015	Mobility	Gm_P_015		
+M_NML_016	Mobility	Gm_N_016		
+M_NML_017	Mobility	Gm_P_017		
+M_NML_018	Mobility	Gm_N_018		
+M_NML_019	Mobility	Gm_P_019		
+M_NML_020	Mobility	Gm_N_020		
+M_NML_021	Mobility	Gm_P_021		
+M_NML_022	Mobility	Gm_N_022		
+M_NML_023	Mobility	Gm_P_023		
+M_NML_024	Mobility	Gm_N_024		
+M_NML_025	Mobility	Gm_P_025		
+M_NML_026	Mobility	Gm_N_026		
+M_NML_027	Mobility	Gm_P_027		
+M_NML_028	Mobility	Gm_N_028		
+M_NML_029	Mobility	Gm_P_029		
+M_NML_030	Mobility	Gm_N_030		
+M_NML_031	Mobility	Gm_P_031		
+M_NML_032	Mobility	Gm_N_032		
+M_NML_033	Mobility	Gm_P_033		
+M_NML_034	Mobility	Gm_N_034		
+M_NML_035	Mobility	Gm_P_035		
+M_NML_036	Mobility	Gm_N_036		
+M_NML_037	Mobility	Gm_P_037		
+M_NML_038	Mobility	Gm_N_038		
+M_NML_039	Mobility	Gm_P_039		
+M_NML_040	Mobility	Gm_N_040		
+M_NML_041	Mobility	Gm_P_041		
+M_NML_042	Mobility	Gm_N_042		
+M_NML_043	Mobility	Gm_P_043		
+M_NML_044	Mobility	Gm_N_044		
+M_NML_045	Mobility	Gm_P_045		
+M_NML_046	Mobility	Gm_N_046		
+M_NML_047	Mobility	Gm_P_047		
+M_NML_048	Mobility	Gm_N_048		
+M_NML_049	Mobility	Gm_P_049		
+M_NML_050	Mobility	Gm_N_050		
+M_NML_051	Mobility	Gm_P_051		
+M_NML_052	Mobility	Gm_N_052		
+M_NML_053	Mobility	Gm_P_053		
+M_NML_054	Mobility	Gm_N_054		
+M_NML_055	Mobility	Gm_P_055		
+M_NML_056	Mobility	Gm_N_056		
+M_NML_057	Mobility	Gm_P_057		
+M_NML_058	Mobility	Gm_N_058		
+M_NML_059	Mobility	Gm_P_059		
+M_NML_060	Mobility	Gm_N_060		
+M_NML_061	Mobility	Gm_P_061		
+M_NML_062	Mobility	Gm_N_062		
+M_NML_063	Mobility	Gm_P_063		
+M_NML_064	Mobility	Gm_N_064		
+M_NML_065	Mobility	Gm_P_065		
+M_NML_066	Mobility	Gm_N_066		
+M_NML_067	Mobility	Gm_P_067		
+M_NML_068	Mobility	Gm_N_068		
+M_NML_069	Mobility	Gm_P_069		
+M_NML_070	Mobility	Gm_N_070		
+M_NML_071	Mobility	Gm_P_071		
+M_NML_072	Mobility	Gm_N_072		
+M_NML_073	Mobility	Gm_P_073		
+M_NML_074	Mobility	Gm_N_074		
+M_NML_075	Mobility	Gm_P_075		
+M_NML_076	Mobility	Gm_N_076		
+M_NML_077	Mobility	Gm_P_077		
+M_NML_078	Mobility	Gm_N_078		
+M_NML_079	Mobility	Gm_P_079		
+M_NML_080	Mobility	Gm_N_080		
+M_NML_081	Mobility	Gm_P_081		
+M_NML_082	Mobility	Gm_N_082		
+M_NML_083	Mobility	Gm_P_083		
+M_NML_084	Mobility	Gm_N_084		
+M_NML_085	Mobility	Gm_P_085		
+M_NML_086	Mobility	Gm_N_086		
+M_NML_087	Mobility	Gm_P_087		
+M_NML_088	Mobility	Gm_N_088		
+M_NML_089	Mobility	Gm_P_089		
+M_NML_090	Mobility	Gm_N_090		
+M_NML_091	Mobility	Gm_P_091		
+M_NML_092	Mobility	Gm_N_092		
+M_NML_093	Mobility	Gm_P_093		
+M_NML_094	Mobility	Gm_N_094		
+M_NML_095	Mobility	Gm_P_095		
+M_NML_096	Mobility	Gm_N_096		
+M_NML_097	Mobility	Gm_P_097		
+M_NML_098	Mobility	Gm_N_098		
+M_NML_099	Mobility	Gm_P_099		
+M_NML_100	Mobility	Gm_N_100		
+M_NML_101	Mobility	Gm_P_101		
+M_NML_102	Mobility	Gm_N_102		
+M_NML_103	Mobility	Gm_P_103		
+M_NML_104	Mobility	Gm_N_104		
+M_NML_105	Mobility	Gm_P_105		
+M_NML_106	Mobility	Gm_N_106		
+M_NML_107	Mobility	Gm_P_107		
+M_NML_108	Mobility	Gm_N_108		
+M_NML_109	Mobility	Gm_P_109		
+M_NML_110	Mobility	Gm_N_110		
+M_NML_111	Mobility	Gm_P_111		
+M_NML_112	Mobility	Gm_N_112		
+M_NML_113	Mobility	Gm_P_113		
+M_NML_114	Mobility	Gm_N_114		
+M_NML_115	Mobility	Gm_P_115		
+M_NML_116	Mobility	Gm_N_116		
+M_NML_117	Mobility	Gm_P_117		
+M_NML_118	Mobility	Gm_N_118		
+M_NML_119	Mobility	Gm_P_119		
+M_NML_120	Mobility	Gm_N_120		
+M_NML_121	Mobility	Gm_P_121		
+M_NML_122	Mobility	Gm_N_122		
+M_NML_123	Mobility	Gm_P_123		
+M_NML_124	Mobility	Gm_N_124		
+M_NML_125	Mobility	Gm_P_125		
+M_NML_126	Mobility	Gm_N_126		
+M_NML_127	Mobility	Gm_P_127		
+M_NML_128	Mobility	Gm_N_128		
+M_NML_129	Mobility	Gm_P_129		
+M_NML_130	Mobility	Gm_N_130		
+M_NML_131	Mobility	Gm_P_131		
+M_NML_132	Mobility	Gm_N_132		
+M_NML_133	Mobility	Gm_P_133		
+M_NML_134	Mobility	Gm_N_134		
+M_NML_135	Mobility	Gm_P_135		
+M_NML_136	Mobility	Gm_N_136		
+M_NML_137	Mobility	Gm_P_137		
+M_NML_138	Mobility	Gm_N_138		
+M_NML_139	Mobility	Gm_P_139		
+M_NML_140	Mobility	Gm_N_140		
+M_NML_141	Mobility	Gm_P_141		
+M_NML_142	Mobility	Gm_N_142		
+M_NML_143	Mobility	Gm_P_143		
+M_NML_144	Mobility	Gm_N_144		
+M_NML_145	Mobility	Gm_P_145		
+M_NML_146	Mobility	Gm_N_146		
+M_NML_147	Mobility	Gm_P_147		
+M_NML_148	Mobility	Gm_N_148		
+M_NML_149	Mobility	Gm_P_149		
+M_NML_150	Mobility	Gm_N_150		
+M_NML_151	Mobility	Gm_P_151		
+M_NML_152	Mobility	Gm_N_152		
+M_NML_153	Mobility	Gm_P_153		
+M_NML_154	Mobility	Gm_N_154		
+M_NML_155	Mobility	Gm_P_155		
+M_NML_156	Mobility	Gm_N_156		
+M_NML_157	Mobility	Gm_P_157		
+M_NML_158	Mobility	Gm_N_158		
+M_NML_159	Mobility	Gm_P_159		
+M_NML_160	Mobility	Gm_N_160		
+M_NML_161	Mobility	Gm_P_161		
+M_NML_162	Mobility	Gm_N_162		
+M_NML_163	Mobility	Gm_P_163		
+M_NML_164	Mobility	Gm_N_164		
+M_NML_165	Mobility	Gm_P_165		
+M_NML_166	Mobility	Gm_N_166		
+M_NML_167	Mobility	Gm_P_167		
+M_NML_168	Mobility	Gm_N_168		
+M_NML_169	Mobility	Gm_P_169		
+M_NML_170	Mobility	Gm_N_170		
+M_NML_171	Mobility	Gm_P_171		
+M_NML_172	Mobility	Gm_N_172		
+M_NML_173	Mobility	Gm_P_173		
+M_NML_174	Mobility	Gm_N_174		
+M_NML_175	Mobility	Gm_P_175		
+M_NML_176	Mobility	Gm_N_176		
+M_NML_177	Mobility	Gm_P_177		
+M_NML_178	Mobility	Gm_N_178		
+M_NML_179	Mobility	Gm_P_179		
+M_NML_180	Mobility	Gm_N_180		
+M_NML_181	Mobility	Gm_P_181		
+M_NML_182	Mobility	Gm_N_182		
+M_NML_183	Mobility	Gm_P_183		
+M_NML_184	Mobility	Gm_N_184		
+M_NML_185	Mobility	Gm_P_185		
+M_NML_186	Mobility	Gm_N_186		
+M_NML_187	Mobility	Gm_P_187		
+M_NML_188	Mobility	Gm_N_188		
+M_NML_189	Mobility	Gm_P_189		
+M_NML_190	Mobility	Gm_N_190		
+M_NML_191	Mobility	Gm_P_191		
+M_NML_192	Mobility	Gm_N_192		
+M_NML_193	Mobility	Gm_P_193		
+M_NML_194	Mobility	Gm_N_194		
+M_NML_195	Mobility	Gm_P_195		
+M_NML_196	Mobility	Gm_N_196		
+M_NML_197	Mobility	Gm_P_197		
+M_NML_198	Mobility	Gm_N_198		
+M_NML_199	Mobility	Gm_P_199		
+M_NML_200	Mobility	Gm_N_200		
+M_NML_201	Mobility	Gm_P_201		
+M_NML_202	Mobility	Gm_N_202		
+M_NML_203	Mobility	Gm_P_203		
+M_NML_204	Mobility	Gm_N_204		
+M_NML_205	Mobility	Gm_P_205		
+M_NML_206	Mobility	Gm_N_206		
+M_NML_207	Mobility	Gm_P_207		
+M_NML_208	Mobility	Gm_N_208		
+M_NML_209	Mobility	Gm_P_209		
+M_NML_210	Mobility	Gm_N_210		
+M_NML_211	Mobility	Gm_P_211		
+M_NML_212	Mobility	Gm_N_212		
+M_NML_213	Mobility	Gm_P_213		
+M_NML_214	Mobility	Gm_N_214		
+M_NML_215	Mobility	Gm_P_215		
+M_NML_216	Mobility	Gm_N_216		
+M_NML_217	Mobility	Gm_P_217		
+M_NML_218	Mobility	Gm_N_218		
+M_NML_219	Mobility	Gm_P_219		
+M_NML_220	Mobility	Gm_N_220		
+M_NML_221	Mobility	Gm_P_221		
+M_NML_222	Mobility	Gm_N_222		
+M_NML_223	Mobility	Gm_P_223		
+M_NML_224	Mobility	Gm_N_224		
+M_NML_225	Mobility	Gm_P_225		
+M_NML_226	Mobility	Gm_N_226		
+M_NML_227	Mobility	Gm_P_227		
+M_NML_228	Mobility	Gm_N_228		
+M_NML_229	Mobility	Gm_P_229		
+M_NML_230	Mobility	Gm_N_230		
+M_NML_231	Mobility	Gm_P_231		
+M_NML_232	Mobility	Gm_N_232		
+M_NML_233	Mobility	Gm_P_233		
+M_NML_234	Mobility	Gm_N_234		
+M_NML_235	Mobility	Gm_P_235		
+M_NML_236	Mobility	Gm_N_236		
+M_NML_237	Mobility	Gm_P_237		
+M_NML_238	Mobility	Gm_N_238		
+M_NML_239	Mobility	Gm_P_239		
+M_NML_240	Mobility	Gm_N_240		
+M_NML_241	Mobility	Gm_P_241		
+M_NML_242	Mobility	Gm_N_242		
+M_NML_243	Mobility	Gm_P_243		
+M_NML_244	Mobility	Gm_N_244		
+M_NML_245	Mobility	Gm_P_245		
+M_NML_246	Mobility	Gm_N_246		
+M_NML_247	Mobility	Gm_P_247		
+M_NML_248	Mobility	Gm_N_248		
+M_NML_249	Mobility	Gm_P_249		
+M_NML_250	Mobility	Gm_N_250		
+M_NML_251	Mobility	Gm_P_251		
+M_NML_252	Mobility	Gm_N_252		
+M_NML_253	Mobility	Gm_P_253		
+M_NML_254	Mobility	Gm_N_254		
+M_NML_255	Mobility	Gm_P_255		
+M_NML_256	Mobility	Gm_N_256		
+M_NML_257	Mobility	Gm_P_257		
+M_NML_258	Mobility	Gm_N_258		
+M_NML_259	Mobility	Gm_P_259		
+M_NML_260	Mobility	Gm_N_260		
+M_NML_261	Mobility	Gm_P_261		
+M_NML_262	Mobility	Gm_N_262		
+M_NML_263	Mobility	Gm_P_263		
+M_NML_264	Mobility	Gm_N_264		
+M_NML_265	Mobility	Gm_P_265		
+M_NML_266	Mobility	Gm_N_266		
+M_NML_267	Mobility	Gm_P_267		
+M_NML_268	Mobility	Gm_N_268		
+M_NML_269	Mobility	Gm_P_269		
+M_NML_270	Mobility	Gm_N_270		
+M_NML_271	Mobility	Gm_P_271		
+M_NML_272	Mobility	Gm_N_272		
+M_NML_273	Mobility	Gm_P_273		
+M_NML_274	Mobility	Gm_N_274		
+M_NML_275	Mobility	Gm_P_275		
+M_NML_276	Mobility	Gm_N_276		
+M_NML_277	Mobility	Gm_P_277		
+M_NML_278	Mobility	Gm_N_278		
+M_NML_279	Mobility	Gm_P_279		
+M_NML_280	Mobility	Gm_N_280		
+M_NML_281	Mobility	Gm_P_281		
+M_NML_282	Mobility	Gm_N_282		
+M_NML_283	Mobility	Gm_P_283		
+M_NML_284	Mobility	Gm_N_284		
+M_NML_285	Mobility	Gm_P_285		
+M_NML_286	Mobility	Gm_N_286		
+M_NML_287	Mobility	Gm_P_287		
+M_NML_288	Mobility	Gm_N_288		
+M_NML_289	Mobility	Gm_P_289		
+M_NML_290	Mobility	Gm_N_290		
+M_NML_291	Mobility	Gm_P_291		
+M_NML_292	Mobility	Gm_N_292		
+M_NML_293	Mobility	Gm_P_293		
+M_NML_294	Mobility	Gm_N_294		
+M_NML_295	Mobility	Gm_P_295		
+M_NML_296	Mobility	Gm_N_296		
+M_NML_297	Mobility	Gm_P_297		
+M_NML_298	Mobility	Gm_N_298		
+M_NML_299	Mobility	Gm_P_299		
+M_NML_300	Mobility	Gm_N_300		
+M_NML_301	Mobility	Gm_P_301		
+M_NML_302	Mobility	Gm_N_302		
+M_NML_303	Mobility	Gm_P_303		
+M_NML_304	Mobility	Gm_N_304		
+M_NML_305	Mobility	Gm_P_305		
+M_NML_306	Mobility	Gm_N_306		
+M_NML_307	Mobility	Gm_P_307		
+M_NML_308	Mobility	Gm_N_308		
+M_NML_309	Mobility	Gm_P_309		
+M_NML_310	Mobility	Gm_N_310		
+P_HSR_001	Speed	RO_Freq_P_001		
+P_HSR_002	Speed	RO_Freq_N_002		
+P_HSR_003	Speed	RO_Freq_P_003		
+P_HSR_004	Speed	RO_Freq_N_004		
+P_HSR_005	Speed	RO_Freq_P_005		
+P_HSR_006	Speed	RO_Freq_N_006		
+P_HSR_007	Speed	RO_Freq_P_007		
+P_HSR_008	Speed	RO_Freq_N_008		
+P_HSR_009	Speed	RO_Freq_P_009		
+P_HSR_010	Speed	RO_Freq_N_010		
+P_HSR_011	Speed	RO_Freq_P_011		
+P_HSR_012	Speed	RO_Freq_N_012		
+P_HSR_013	Speed	RO_Freq_P_013		
+P_HSR_014	Speed	RO_Freq_N_014		
+P_HSR_015	Speed	RO_Freq_P_015		
+P_HSR_016	Speed	RO_Freq_N_016		
+P_HSR_017	Speed	RO_Freq_P_017		
+P_HSR_018	Speed	RO_Freq_N_018		
+P_HSR_019	Speed	RO_Freq_P_019		
+P_HSR_020	Speed	RO_Freq_N_020		
+P_HSR_021	Speed	RO_Freq_P_021		
+P_HSR_022	Speed	RO_Freq_N_022		
+P_HSR_023	Speed	RO_Freq_P_023		
+P_HSR_024	Speed	RO_Freq_N_024		
+P_HSR_025	Speed	RO_Freq_P_025		
+P_HSR_026	Speed	RO_Freq_N_026		
+P_HSR_027	Speed	RO_Freq_P_027		
+P_HSR_028	Speed	RO_Freq_N_028		
+P_HSR_029	Speed	RO_Freq_P_029		
+P_HSR_030	Speed	RO_Freq_N_030		
+P_HSR_031	Speed	RO_Freq_P_031		
+P_HSR_032	Speed	RO_Freq_N_032		
+P_HSR_033	Speed	RO_Freq_P_033		
+P_HSR_034	Speed	RO_Freq_N_034		
+P_HSR_035	Speed	RO_Freq_P_035		
+P_HSR_036	Speed	RO_Freq_N_036		
+P_HSR_037	Speed	RO_Freq_P_037		
+P_HSR_038	Speed	RO_Freq_N_038		
+P_HSR_039	Speed	RO_Freq_P_039		
+P_HSR_040	Speed	RO_Freq_N_040		
+P_HSR_041	Speed	RO_Freq_P_041		
+P_HSR_042	Speed	RO_Freq_N_042		
+P_HSR_043	Speed	RO_Freq_P_043		
+P_HSR_044	Speed	RO_Freq_N_044		
+P_HSR_045	Speed	RO_Freq_P_045		
+P_HSR_046	Speed	RO_Freq_N_046		
+P_HSR_047	Speed	RO_Freq_P_047		
+P_HSR_048	Speed	RO_Freq_N_048		
+P_HSR_049	Speed	RO_Freq_P_049		
+P_HSR_050	Speed	RO_Freq_N_050		
+P_HSR_051	Speed	RO_Freq_P_051		
+P_HSR_052	Speed	RO_Freq_N_052		
+P_HSR_053	Speed	RO_Freq_P_053		
+P_HSR_054	Speed	RO_Freq_N_054		
+P_HSR_055	Speed	RO_Freq_P_055		
+P_HSR_056	Speed	RO_Freq_N_056		
+P_HSR_057	Speed	RO_Freq_P_057		
+P_HSR_058	Speed	RO_Freq_N_058		
+P_HSR_059	Speed	RO_Freq_P_059		
+P_HSR_060	Speed	RO_Freq_N_060		
+P_HSR_061	Speed	RO_Freq_P_061		
+P_HSR_062	Speed	RO_Freq_N_062		
+P_HSR_063	Speed	RO_Freq_P_063		
+P_HSR_064	Speed	RO_Freq_N_064		
+P_HSR_065	Speed	RO_Freq_P_065		
+P_HSR_066	Speed	RO_Freq_N_066		
+P_HSR_067	Speed	RO_Freq_P_067		
+P_HSR_068	Speed	RO_Freq_N_068		
+P_HSR_069	Speed	RO_Freq_P_069		
+P_HSR_070	Speed	RO_Freq_N_070		
+P_HSR_071	Speed	RO_Freq_P_071		
+P_HSR_072	Speed	RO_Freq_N_072		
+P_HSR_073	Speed	RO_Freq_P_073		
+P_HSR_074	Speed	RO_Freq_N_074		
+P_HSR_075	Speed	RO_Freq_P_075		
+P_HSR_076	Speed	RO_Freq_N_076		
+P_HSR_077	Speed	RO_Freq_P_077		
+P_HSR_078	Speed	RO_Freq_N_078		
+P_HSR_079	Speed	RO_Freq_P_079		
+P_HSR_080	Speed	RO_Freq_N_080		
+P_HSR_081	Speed	RO_Freq_P_081		
+P_HSR_082	Speed	RO_Freq_N_082		
+P_HSR_083	Speed	RO_Freq_P_083		
+P_HSR_084	Speed	RO_Freq_N_084		
+P_HSR_085	Speed	RO_Freq_P_085		
+P_HSR_086	Speed	RO_Freq_N_086		
+P_HSR_087	Speed	RO_Freq_P_087		
+P_HSR_088	Speed	RO_Freq_N_088		
+P_HSR_089	Speed	RO_Freq_P_089		
+P_HSR_090	Speed	RO_Freq_N_090		
+P_HSR_091	Speed	RO_Freq_P_091		
+P_HSR_092	Speed	RO_Freq_N_092		
+P_HSR_093	Speed	RO_Freq_P_093		
+P_HSR_094	Speed	RO_Freq_N_094		
+P_HSR_095	Speed	RO_Freq_P_095		
+P_HSR_096	Speed	RO_Freq_N_096		
+P_HSR_097	Speed	RO_Freq_P_097		
+P_HSR_098	Speed	RO_Freq_N_098		
+P_HSR_099	Speed	RO_Freq_P_099		
+P_HSR_100	Speed	RO_Freq_N_100		
+P_HSR_101	Speed	RO_Freq_P_101		
+P_HSR_102	Speed	RO_Freq_N_102		
+P_HSR_103	Speed	RO_Freq_P_103		
+P_HSR_104	Speed	RO_Freq_N_104		
+P_HSR_105	Speed	RO_Freq_P_105		
+P_HSR_106	Speed	RO_Freq_N_106		
+P_HSR_107	Speed	RO_Freq_P_107		
+P_HSR_108	Speed	RO_Freq_N_108		
+P_HSR_109	Speed	RO_Freq_P_109		
+P_HSR_110	Speed	RO_Freq_N_110		
+P_HSR_111	Speed	RO_Freq_P_111		
+P_HSR_112	Speed	RO_Freq_N_112		
+P_HSR_113	Speed	RO_Freq_P_113		
+P_HSR_114	Speed	RO_Freq_N_114		
+P_HSR_115	Speed	RO_Freq_P_115		
+P_HSR_116	Speed	RO_Freq_N_116		
+P_HSR_117	Speed	RO_Freq_P_117		
+P_HSR_118	Speed	RO_Freq_N_118		
+P_HSR_119	Speed	RO_Freq_P_119		
+P_HSR_120	Speed	RO_Freq_N_120		
+P_HSR_121	Speed	RO_Freq_P_121		
+P_HSR_122	Speed	RO_Freq_N_122		
+P_HSR_123	Speed	RO_Freq_P_123		
+P_HSR_124	Speed	RO_Freq_N_124		
+P_HSR_125	Speed	RO_Freq_P_125		
+P_HSR_126	Speed	RO_Freq_N_126		
+P_HSR_127	Speed	RO_Freq_P_127		
+P_HSR_128	Speed	RO_Freq_N_128		
+P_HSR_129	Speed	RO_Freq_P_129		
+P_HSR_130	Speed	RO_Freq_N_130		
+P_HSR_131	Speed	RO_Freq_P_131		
+P_HSR_132	Speed	RO_Freq_N_132		
+P_HSR_133	Speed	RO_Freq_P_133		
+P_HSR_134	Speed	RO_Freq_N_134		
+P_HSR_135	Speed	RO_Freq_P_135		
+P_HSR_136	Speed	RO_Freq_N_136		
+P_HSR_137	Speed	RO_Freq_P_137		
+P_HSR_138	Speed	RO_Freq_N_138		
+P_HSR_139	Speed	RO_Freq_P_139		
+P_HSR_140	Speed	RO_Freq_N_140		
+P_HSR_141	Speed	RO_Freq_P_141		
+P_HSR_142	Speed	RO_Freq_N_142		
+P_HSR_143	Speed	RO_Freq_P_143		
+P_HSR_144	Speed	RO_Freq_N_144		
+P_HSR_145	Speed	RO_Freq_P_145		
+P_HSR_146	Speed	RO_Freq_N_146		
+P_HSR_147	Speed	RO_Freq_P_147		
+P_HSR_148	Speed	RO_Freq_N_148		
+P_HSR_149	Speed	RO_Freq_P_149		
+P_HSR_150	Speed	RO_Freq_N_150		
+P_HSR_151	Speed	RO_Freq_P_151		
+P_HSR_152	Speed	RO_Freq_N_152		
+P_HSR_153	Speed	RO_Freq_P_153		
+P_HSR_154	Speed	RO_Freq_N_154		
+P_HSR_155	Speed	RO_Freq_P_155		
+P_HSR_156	Speed	RO_Freq_N_156		
+P_HSR_157	Speed	RO_Freq_P_157		
+P_HSR_158	Speed	RO_Freq_N_158		
+P_HSR_159	Speed	RO_Freq_P_159		
+P_HSR_160	Speed	RO_Freq_N_160		
+P_HSR_161	Speed	RO_Freq_P_161		
+P_HSR_162	Speed	RO_Freq_N_162		
+P_HSR_163	Speed	RO_Freq_P_163		
+P_HSR_164	Speed	RO_Freq_N_164		
+P_HSR_165	Speed	RO_Freq_P_165		
+P_HSR_166	Speed	RO_Freq_N_166		
+P_HSR_167	Speed	RO_Freq_P_167		
+P_HSR_168	Speed	RO_Freq_N_168		
+P_HSR_169	Speed	RO_Freq_P_169		
+P_HSR_170	Speed	RO_Freq_N_170		
+P_HSR_171	Speed	RO_Freq_P_171		
+P_HSR_172	Speed	RO_Freq_N_172		
+P_HSR_173	Speed	RO_Freq_P_173		
+P_HSR_174	Speed	RO_Freq_N_174		
+P_HSR_175	Speed	RO_Freq_P_175		
+P_HSR_176	Speed	RO_Freq_N_176		
+P_HSR_177	Speed	RO_Freq_P_177		
+P_HSR_178	Speed	RO_Freq_N_178		
+P_HSR_179	Speed	RO_Freq_P_179		
+P_HSR_180	Speed	RO_Freq_N_180		
+P_HSR_181	Speed	RO_Freq_P_181		
+P_HSR_182	Speed	RO_Freq_N_182		
+P_HSR_183	Speed	RO_Freq_P_183		
+P_HSR_184	Speed	RO_Freq_N_184		
+P_HSR_185	Speed	RO_Freq_P_185		
+P_HSR_186	Speed	RO_Freq_N_186		
+P_HSR_187	Speed	RO_Freq_P_187		
+P_HSR_188	Speed	RO_Freq_N_188		
+P_HSR_189	Speed	RO_Freq_P_189		
+P_HSR_190	Speed	RO_Freq_N_190		
+P_HSR_191	Speed	RO_Freq_P_191		
+P_HSR_192	Speed	RO_Freq_N_192		
+P_HSR_193	Speed	RO_Freq_P_193		
+P_HSR_194	Speed	RO_Freq_N_194		
+P_HSR_195	Speed	RO_Freq_P_195		
+P_HSR_196	Speed	RO_Freq_N_196		
+P_HSR_197	Speed	RO_Freq_P_197		
+P_HSR_198	Speed	RO_Freq_N_198		
+P_HSR_199	Speed	RO_Freq_P_199		
+P_HSR_200	Speed	RO_Freq_N_200		
+P_HSR_201	Speed	RO_Freq_P_201		
+P_HSR_202	Speed	RO_Freq_N_202		
+P_HSR_203	Speed	RO_Freq_P_203		
+P_HSR_204	Speed	RO_Freq_N_204		
+P_HSR_205	Speed	RO_Freq_P_205		
+P_HSR_206	Speed	RO_Freq_N_206		
+P_HSR_207	Speed	RO_Freq_P_207		
+P_HSR_208	Speed	RO_Freq_N_208		
+P_HSR_209	Speed	RO_Freq_P_209		
+P_HSR_210	Speed	RO_Freq_N_210		
+P_HSR_211	Speed	RO_Freq_P_211		
+P_HSR_212	Speed	RO_Freq_N_212		
+P_HSR_213	Speed	RO_Freq_P_213		
+P_HSR_214	Speed	RO_Freq_N_214		
+P_HSR_215	Speed	RO_Freq_P_215		
+P_HSR_216	Speed	RO_Freq_N_216		
+P_HSR_217	Speed	RO_Freq_P_217		
+P_HSR_218	Speed	RO_Freq_N_218		
+P_HSR_219	Speed	RO_Freq_P_219		
+P_HSR_220	Speed	RO_Freq_N_220		
+P_HSR_221	Speed	RO_Freq_P_221		
+P_HSR_222	Speed	RO_Freq_N_222		
+P_HSR_223	Speed	RO_Freq_P_223		
+P_HSR_224	Speed	RO_Freq_N_224		
+P_HSR_225	Speed	RO_Freq_P_225		
+P_HSR_226	Speed	RO_Freq_N_226		
+P_HSR_227	Speed	RO_Freq_P_227		
+P_HSR_228	Speed	RO_Freq_N_228		
+P_HSR_229	Speed	RO_Freq_P_229		
+P_HSR_230	Speed	RO_Freq_N_230		
+P_HSR_231	Speed	RO_Freq_P_231		
+P_HSR_232	Speed	RO_Freq_N_232		
+P_HSR_233	Speed	RO_Freq_P_233		
+P_HSR_234	Speed	RO_Freq_N_234		
+P_HSR_235	Speed	RO_Freq_P_235		
+P_HSR_236	Speed	RO_Freq_N_236		
+P_HSR_237	Speed	RO_Freq_P_237		
+P_HSR_238	Speed	RO_Freq_N_238		
+P_HSR_239	Speed	RO_Freq_P_239		
+P_HSR_240	Speed	RO_Freq_N_240		
+P_HSR_241	Speed	RO_Freq_P_241		
+P_HSR_242	Speed	RO_Freq_N_242		
+P_HSR_243	Speed	RO_Freq_P_243		
+P_HSR_244	Speed	RO_Freq_N_244		
+P_HSR_245	Speed	RO_Freq_P_245		
+P_HSR_246	Speed	RO_Freq_N_246		
+P_HSR_247	Speed	RO_Freq_P_247		
+P_HSR_248	Speed	RO_Freq_N_248		
+P_HSR_249	Speed	RO_Freq_P_249		
+P_HSR_250	Speed	RO_Freq_N_250		
+P_HSR_251	Speed	RO_Freq_P_251		
+P_HSR_252	Speed	RO_Freq_N_252		
+P_HSR_253	Speed	RO_Freq_P_253		
+P_HSR_254	Speed	RO_Freq_N_254		
+P_HSR_255	Speed	RO_Freq_P_255		
+P_HSR_256	Speed	RO_Freq_N_256		
+P_HSR_257	Speed	RO_Freq_P_257		
+P_HSR_258	Speed	RO_Freq_N_258		
+P_HSR_259	Speed	RO_Freq_P_259		
+P_HSR_260	Speed	RO_Freq_N_260		
+P_HSR_261	Speed	RO_Freq_P_261		
+P_HSR_262	Speed	RO_Freq_N_262		
+P_HSR_263	Speed	RO_Freq_P_263		
+P_HSR_264	Speed	RO_Freq_N_264		
+P_HSR_265	Speed	RO_Freq_P_265		
+P_HSR_266	Speed	RO_Freq_N_266		
+P_HSR_267	Speed	RO_Freq_P_267		
+P_HSR_268	Speed	RO_Freq_N_268		
+P_HSR_269	Speed	RO_Freq_P_269		
+P_HSR_270	Speed	RO_Freq_N_270		
+P_HSR_271	Speed	RO_Freq_P_271		
+P_HSR_272	Speed	RO_Freq_N_272		
+P_HSR_273	Speed	RO_Freq_P_273		
+P_HSR_274	Speed	RO_Freq_N_274		
+P_HSR_275	Speed	RO_Freq_P_275		
+P_HSR_276	Speed	RO_Freq_N_276		
+P_HSR_277	Speed	RO_Freq_P_277		
+P_HSR_278	Speed	RO_Freq_N_278		
+P_HSR_279	Speed	RO_Freq_P_279		
+P_HSR_280	Speed	RO_Freq_N_280		
+P_HSR_281	Speed	RO_Freq_P_281		
+P_HSR_282	Speed	RO_Freq_N_282		
+P_HSR_283	Speed	RO_Freq_P_283		
+P_HSR_284	Speed	RO_Freq_N_284		
+P_HSR_285	Speed	RO_Freq_P_285		
+P_HSR_286	Speed	RO_Freq_N_286		
+P_HSR_287	Speed	RO_Freq_P_287		
+P_HSR_288	Speed	RO_Freq_N_288		
+P_HSR_289	Speed	RO_Freq_P_289		
+P_HSR_290	Speed	RO_Freq_N_290		
+P_HSR_291	Speed	RO_Freq_P_291		
+P_HSR_292	Speed	RO_Freq_N_292		
+P_HSR_293	Speed	RO_Freq_P_293		
+P_HSR_294	Speed	RO_Freq_N_294		
+P_HSR_295	Speed	RO_Freq_P_295		
+P_HSR_296	Speed	RO_Freq_N_296		
+P_HSR_297	Speed	RO_Freq_P_297		
+P_HSR_298	Speed	RO_Freq_N_298		
+P_HSR_299	Speed	RO_Freq_P_299		
+P_HSR_300	Speed	RO_Freq_N_300		
+P_HSR_301	Speed	RO_Freq_P_301		
+P_HSR_302	Speed	RO_Freq_N_302		
+P_HSR_303	Speed	RO_Freq_P_303		
+P_HSR_304	Speed	RO_Freq_N_304		
+P_HSR_305	Speed	RO_Freq_P_305		
+P_HSR_306	Speed	RO_Freq_N_306		
+P_HSR_307	Speed	RO_Freq_P_307		
+P_HSR_308	Speed	RO_Freq_N_308		
+P_HSR_309	Speed	RO_Freq_P_309		
+P_HSR_310	Speed	RO_Freq_N_310		
+M_VTH_001	Vth	Vth_P_001	0.4504	0.4176
+M_VTH_002	Vth	Vth_N_002	27.25	23.55
+M_VTH_003	Vth	Vth_P_003	4.982	3.783
+M_VTH_004	Vth	Vth_N_004	0.2898	0.2343
+M_VTH_005	Vth	Vth_P_005	0.7104	0.5041
+M_VTH_006	Vth	Vth_N_006	4.66	3.87
+M_VTH_007	Vth	Vth_P_007	5001	4157
+M_VTH_008	Vth	Vth_N_008	1951	1578
+M_VTH_009	Vth	Vth_P_009	26.34	22.94
+M_VTH_010	Vth	Vth_N_010	20.21	14.1
+M_VTH_011	Vth	Vth_P_011	158.7	140.9
+M_VTH_012	Vth	Vth_N_012	0.05203	0.03301
+M_VTH_013	Vth	Vth_P_013	1.53	1.224
+M_VTH_014	Vth	Vth_N_014	2211	1964
+M_VTH_015	Vth	Vth_P_015	0.03684	0.0335
+M_VTH_016	Vth	Vth_N_016	38.21	31.43
+M_VTH_017	Vth	Vth_P_017	0.5622	0.3917
+M_VTH_018	Vth	Vth_N_018	10.75	3.968
+M_VTH_019	Vth	Vth_P_019	197	141.1
+M_VTH_020	Vth	Vth_N_020	155.5	130.4
+M_VTH_021	Vth	Vth_P_021	13.17	11.44
+M_VTH_022	Vth	Vth_N_022	2111	1866
+M_VTH_023	Vth	Vth_P_023	41.97	29.73
+M_VTH_024	Vth	Vth_N_024	0.03674	0.02611
+M_VTH_025	Vth	Vth_P_025	117.9	92.77
+M_VTH_026	Vth	Vth_N_026	179.7	143.3
+M_VTH_027	Vth	Vth_P_027	144.5	127.2
+M_VTH_028	Vth	Vth_N_028	1768	1096
+M_VTH_029	Vth	Vth_P_029	0.8435	0.6299
+M_VTH_030	Vth	Vth_N_030	2.675	1.935
+M_VTH_031	Vth	Vth_P_031	39.64	29.55
+M_VTH_032	Vth	Vth_N_032	1.894	1.76
+M_VTH_033	Vth	Vth_P_033	54.22	38.9
+M_VTH_034	Vth	Vth_N_034	0.2838	0.2519
+M_VTH_035	Vth	Vth_P_035	0.5921	0.4143
+M_VTH_036	Vth	Vth_N_036	41.66	26.99
+M_VTH_037	Vth	Vth_P_037	121.5	93.97
+M_VTH_038	Vth	Vth_N_038	0.4302	0.3394
+M_VTH_039	Vth	Vth_P_039	35.01	25.87
+M_VTH_040	Vth	Vth_N_040	3.977	3.184
+M_VTH_041	Vth	Vth_P_041	0.002682	0.002436
+M_VTH_042	Vth	Vth_N_042	0.7022	0.5819
+M_VTH_043	Vth	Vth_P_043	1.566	1.372
+M_VTH_044	Vth	Vth_N_044	66.9	49.1
+M_VTH_045	Vth	Vth_P_045	22.87	18.77
+M_VTH_046	Vth	Vth_N_046	0.8281	0.749
+M_VTH_047	Vth	Vth_P_047	1200	864.1
+M_VTH_048	Vth	Vth_N_048	204.5	174.8
+M_VTH_049	Vth	Vth_P_049	2.852	1.709
+M_VTH_050	Vth	Vth_N_050	0.7335	0.5093
+M_VTH_051	Vth	Vth_P_051	230.4	171.5
+M_VTH_052	Vth	Vth_N_052	141.6	125.1
+M_VTH_053	Vth	Vth_P_053	0.01716	0.01256
+M_VTH_054	Vth	Vth_N_054	2856	2345
+M_VTH_055	Vth	Vth_P_055	166.3	120
+M_VTH_056	Vth	Vth_N_056	0.001585	0.001193
+M_VTH_057	Vth	Vth_P_057	0.7036	0.4845
+M_VTH_058	Vth	Vth_N_058	114.4	97.03
+M_VTH_059	Vth	Vth_P_059	4784	3217
+M_VTH_060	Vth	Vth_N_060	45.93	33.7
+M_VTH_061	Vth	Vth_P_061	170.8	136.1
+M_VTH_062	Vth	Vth_N_062	0.03147	0.02708
+M_VTH_063	Vth	Vth_P_063	2.534	2.283
+M_VTH_064	Vth	Vth_N_064	146.1	113
+M_VTH_065	Vth	Vth_P_065	39.55	36.28
+M_VTH_066	Vth	Vth_N_066	3516	2756
+M_VTH_067	Vth	Vth_P_067	0.7234	0.5471
+M_VTH_068	Vth	Vth_N_068	4.834	3.375
+M_VTH_069	Vth	Vth_P_069	0.02714	0.02494
+M_VTH_070	Vth	Vth_N_070	178.4	-27.05
+M_VTH_071	Vth	Vth_P_071	16.39	13.67
+M_VTH_072	Vth	Vth_N_072	0.2722	0.2172
+M_VTH_073	Vth	Vth_P_073	0.713	0.4918
+M_VTH_074	Vth	Vth_N_074	4134	3216
+M_VTH_075	Vth	Vth_P_075	32.9	15.1
+M_VTH_076	Vth	Vth_N_076	5750	4176
+M_VTH_077	Vth	Vth_P_077	12.4	9.7
+M_VTH_078	Vth	Vth_N_078	5.206	3.478
+M_VTH_079	Vth	Vth_P_079	132	116.9
+M_VTH_080	Vth	Vth_N_080	2088	1577
+M_VTH_081	Vth	Vth_P_081	0.5773	0.4348
+M_VTH_082	Vth	Vth_N_082	157.9	115
+M_VTH_083	Vth	Vth_P_083	174.6	147
+M_VTH_084	Vth	Vth_N_084	52.65	36.58
+M_VTH_085	Vth	Vth_P_085	3.832	3.202
+M_VTH_086	Vth	Vth_N_086	4.346	3.181
+M_VTH_087	Vth	Vth_P_087	1876	1370
+M_VTH_088	Vth	Vth_N_088	5394	3452
+M_VTH_089	Vth	Vth_P_089	301.8	176.5
+M_VTH_090	Vth	Vth_N_090	35.57	31.21
+M_VTH_091	Vth	Vth_P_091	144	124.1
+M_VTH_092	Vth	Vth_N_092	4.229	3.699
+M_VTH_093	Vth	Vth_P_093	1.478	-0.3619
+M_VTH_094	Vth	Vth_N_094	154.7	117.2
+M_VTH_095	Vth	Vth_P_095	191.2	169.5
+M_VTH_096	Vth	Vth_N_096	146.1	110
+M_VTH_097	Vth	Vth_P_097	3.067	2.21
+M_VTH_098	Vth	Vth_N_098	0.8392	0.6032
+M_VTH_099	Vth	Vth_P_099	226.1	130.6
+M_VTH_100	Vth	Vth_N_100	0.8462	0.7214
+M_VTH_101	Vth	Vth_P_101	2.248	1.88
+M_VTH_102	Vth	Vth_N_102	3.037	2.365
+M_VTH_103	Vth	Vth_P_103	0.02427	0.02071
+M_VTH_104	Vth	Vth_N_104	11.51	9.465
+M_VTH_105	Vth	Vth_P_105	3.635	2.911
+M_VTH_106	Vth	Vth_N_106	0.7206	0.6482
+M_VTH_107	Vth	Vth_P_107	208.1	182.4
+M_VTH_108	Vth	Vth_N_108	202.2	188.9
+M_VTH_109	Vth	Vth_P_109	0.01613	0.01455
+M_VTH_110	Vth	Vth_N_110	0.8963	0.6985
+M_VTH_111	Vth	Vth_P_111	4741	3767
+M_VTH_112	Vth	Vth_N_112	2.671	2.47
+M_VTH_113	Vth	Vth_P_113	1.717	1.278
+M_VTH_114	Vth	Vth_N_114	29.48	22.52
+M_VTH_115	Vth	Vth_P_115	31.35	27
+M_VTH_116	Vth	Vth_N_116	3.69	2.869
+M_VTH_117	Vth	Vth_P_117	1310	1029
+M_VTH_118	Vth	Vth_N_118	3.26	2.611
+M_VTH_119	Vth	Vth_P_119	169.3	154
+M_VTH_120	Vth	Vth_N_120	5.449	3.901
+M_VTH_121	Vth	Vth_P_121	164.8	153.8
+M_VTH_122	Vth	Vth_N_122	2838	2415
+M_VTH_123	Vth	Vth_P_123	11.27	8.781
+M_VTH_124	Vth	Vth_N_124	2651	1700
+M_VTH_125	Vth	Vth_P_125	1497	1235
+M_VTH_126	Vth	Vth_N_126	1.882	1.423
+M_VTH_127	Vth	Vth_P_127	40.08	33.8
+M_VTH_128	Vth	Vth_N_128	191	170.9
+M_VTH_129	Vth	Vth_P_129	21.3	15.34
+M_VTH_130	Vth	Vth_N_130	36.84	33.53
+M_VTH_131	Vth	Vth_P_131	4194	3336
+M_VTH_132	Vth	Vth_N_132	5105	3647
+M_VTH_133	Vth	Vth_P_133	5.126	4.5
+M_VTH_134	Vth	Vth_N_134	3.72	2.603
+M_VTH_135	Vth	Vth_P_135	193.3	154.3
+M_VTH_136	Vth	Vth_N_136	4212	3594
+M_VTH_137	Vth	Vth_P_137	1.19	0.9841
+M_VTH_138	Vth	Vth_N_138	5254	3652
+M_VTH_139	Vth	Vth_P_139	4.363	2.971
+M_VTH_140	Vth	Vth_N_140	3.14	2.725
+M_VTH_141	Vth	Vth_P_141	0.02534	0.02217
+M_VTH_142	Vth	Vth_N_142	0.0119	0.008927
+M_VTH_143	Vth	Vth_P_143	0.05484	0.0392
+M_VTH_144	Vth	Vth_N_144	0.03862	0.02905
+M_VTH_145	Vth	Vth_P_145	3.183	2.834
+M_VTH_146	Vth	Vth_N_146	31.68	24.3
+M_VTH_147	Vth	Vth_P_147	43.3	35.82
+M_VTH_148	Vth	Vth_N_148	2687	2525
+M_VTH_149	Vth	Vth_P_149	113.9	89.67
+M_VTH_150	Vth	Vth_N_150	145.2	101.2
+M_VTH_151	Vth	Vth_P_151	176.4	132.9
+M_VTH_152	Vth	Vth_N_152	0.04949	0.03884
+M_VTH_153	Vth	Vth_P_153	40.4	34.14
+M_VTH_154	Vth	Vth_N_154	4384	3089
+M_VTH_155	Vth	Vth_P_155	0.2414	0.1696
+M_VTH_156	Vth	Vth_N_156	5011	4591
+M_VTH_157	Vth	Vth_P_157	5376	4387
+M_VTH_158	Vth	Vth_N_158	135.8	116.4
+M_VTH_159	Vth	Vth_P_159	33.91	31.03
+M_VTH_160	Vth	Vth_N_160	110.3	99.82
+M_VTH_161	Vth	Vth_P_161	5.399	4.336
+M_VTH_162	Vth	Vth_N_162	41.69	28.56
+M_VTH_163	Vth	Vth_P_163	1.444	1.145
+M_VTH_164	Vth	Vth_N_164	75.41	68.59
+M_VTH_165	Vth	Vth_P_165	163.5	140.3
+M_VTH_166	Vth	Vth_N_166	35.71	27.9
+M_VTH_167	Vth	Vth_P_167	0.05459	0.03762
+M_VTH_168	Vth	Vth_N_168	137.4	123.5
+M_VTH_169	Vth	Vth_P_169	35.87	29.04
+M_VTH_170	Vth	Vth_N_170	0.05015	0.03646
+M_VTH_171	Vth	Vth_P_171	0.5868	0.4742
+M_VTH_172	Vth	Vth_N_172	34.7	29.49
+M_VTH_173	Vth	Vth_P_173	1.953	1.763
+M_VTH_174	Vth	Vth_N_174	0.03984	0.03543
+M_VTH_175	Vth	Vth_P_175	0.8418	0.6725
+M_VTH_176	Vth	Vth_N_176	52.59	45.57
+M_VTH_177	Vth	Vth_P_177	206.3	189.8
+M_VTH_178	Vth	Vth_N_178	3986	3257
+M_VTH_179	Vth	Vth_P_179	4476	3465
+M_VTH_180	Vth	Vth_N_180	50.84	35.14
+M_VTH_181	Vth	Vth_P_181	0.8548	0.6509
+M_VTH_182	Vth	Vth_N_182	44.73	38.72
+M_VTH_183	Vth	Vth_P_183	4.675	3.63
+M_VTH_184	Vth	Vth_N_184	0.7275	0.5897
+M_VTH_185	Vth	Vth_P_185	0.01624	0.01026
+M_VTH_186	Vth	Vth_N_186	0.01064	0.009341
+M_VTH_187	Vth	Vth_P_187	168.6	151.1
+M_VTH_188	Vth	Vth_N_188	41.09	34.68
+M_VTH_189	Vth	Vth_P_189	3.317	2.712
+M_VTH_190	Vth	Vth_N_190	48.9	31.1
+M_VTH_191	Vth	Vth_P_191	2807	2278
+M_VTH_192	Vth	Vth_N_192	2.897	2.106
+M_VTH_193	Vth	Vth_P_193	44.37	40.22
+M_VTH_194	Vth	Vth_N_194	53.48	44.8
+M_VTH_195	Vth	Vth_P_195	24.45	20.29
+M_VTH_196	Vth	Vth_N_196	0.4365	0.3328
+M_VTH_197	Vth	Vth_P_197	4.687	3.59
+M_VTH_198	Vth	Vth_N_198	0.9321	0.8018
+M_VTH_199	Vth	Vth_P_199	0.6585	0.4612
+M_VTH_200	Vth	Vth_N_200	5348	4129
+M_VTH_201	Vth	Vth_P_201	56.96	36.2
+M_VTH_202	Vth	Vth_N_202	24.19	19.83
+M_VTH_203	Vth	Vth_P_203	52.26	41.24
+M_VTH_204	Vth	Vth_N_204	5173	4105
+M_VTH_205	Vth	Vth_P_205	3.796	3.091
+M_VTH_206	Vth	Vth_N_206	0.4786	0.3514
+M_VTH_207	Vth	Vth_P_207	0.05995	0.04264
+M_VTH_208	Vth	Vth_N_208	0.01513	0.01097
+M_VTH_209	Vth	Vth_P_209	4588	4129
+M_VTH_210	Vth	Vth_N_210	162.4	138.9
+M_VTH_211	Vth	Vth_P_211	0.05322	0.03359
+M_VTH_212	Vth	Vth_N_212	142.3	124.7
+M_VTH_213	Vth	Vth_P_213	42.33	38.46
+M_VTH_214	Vth	Vth_N_214	3437	2961
+M_VTH_215	Vth	Vth_P_215	111	97.26
+M_VTH_216	Vth	Vth_N_216	3210	2401
+M_VTH_217	Vth	Vth_P_217	4.532	3.243
+M_VTH_218	Vth	Vth_N_218	39.43	34.39
+M_VTH_219	Vth	Vth_P_219	1862	1332
+M_VTH_220	Vth	Vth_N_220	158.8	129.6
+M_VTH_221	Vth	Vth_P_221	2623	1975
+M_VTH_222	Vth	Vth_N_222	0.008012	0.006918
+M_VTH_223	Vth	Vth_P_223	0.05684	0.04359
+M_VTH_224	Vth	Vth_N_224	0.03989	0.03136
+M_VTH_225	Vth	Vth_P_225	3.55	2.309
+M_VTH_226	Vth	Vth_N_226	3928	3261
+M_VTH_227	Vth	Vth_P_227	1.071	0.993
+M_VTH_228	Vth	Vth_N_228	56.27	40.64
+M_VTH_229	Vth	Vth_P_229	158.2	140.8
+M_VTH_230	Vth	Vth_N_230	0.9587	0.6098
+M_VTH_231	Vth	Vth_P_231	38.26	27.74
+M_VTH_232	Vth	Vth_N_232	48.08	34.25
+M_VTH_233	Vth	Vth_P_233	3.401	2.487
+M_VTH_234	Vth	Vth_N_234	221.8	126.8
+M_VTH_235	Vth	Vth_P_235	50.03	43.09
+M_VTH_236	Vth	Vth_N_236	0.007802	0.006993
+M_VTH_237	Vth	Vth_P_237	199.3	152
+M_VTH_238	Vth	Vth_N_238	2.593	2.375
+M_VTH_239	Vth	Vth_P_239	2.548	1.752
+M_VTH_240	Vth	Vth_N_240	3561	2903
+M_VTH_241	Vth	Vth_P_241	0.4136	0.29
+M_VTH_242	Vth	Vth_N_242	0.296	0.2078
+M_VTH_243	Vth	Vth_P_243	0.03542	0.03328
+M_VTH_244	Vth	Vth_N_244	0.6023	0.5141
+M_VTH_245	Vth	Vth_P_245	172.8	123.5
+M_VTH_246	Vth	Vth_N_246	0.8856	0.5041
+M_VTH_247	Vth	Vth_P_247	10.86	9.241
+M_VTH_248	Vth	Vth_N_248	51.9	37.99
+M_VTH_249	Vth	Vth_P_249	5584	4310
+M_VTH_250	Vth	Vth_N_250	0.009184	0.006628
+M_VTH_251	Vth	Vth_P_251	0.04054	0.03177
+M_VTH_252	Vth	Vth_N_252	2655	1611
+M_VTH_253	Vth	Vth_P_253	4.786	3.984
+M_VTH_254	Vth	Vth_N_254	21.66	14.91
+M_VTH_255	Vth	Vth_P_255	1.951	1.279
+M_VTH_256	Vth	Vth_N_256	1498	1390
+M_VTH_257	Vth	Vth_P_257	3110	2336
+M_VTH_258	Vth	Vth_N_258	4652	3324
+M_VTH_259	Vth	Vth_P_259	2270	1623
+M_VTH_260	Vth	Vth_N_260	0.6503	0.5365
+M_VTH_261	Vth	Vth_P_261	0.05413	0.04134
+M_VTH_262	Vth	Vth_N_262	0.03976	0.02951
+M_VTH_263	Vth	Vth_P_263	147.9	107.1
+M_VTH_264	Vth	Vth_N_264	4921	3740
+M_VTH_265	Vth	Vth_P_265	0.03044	0.02141
+M_VTH_266	Vth	Vth_N_266	4.203	2.981
+M_VTH_267	Vth	Vth_P_267	0.6483	0.5105
+M_VTH_268	Vth	Vth_N_268	0.3995	0.2924
+M_VTH_269	Vth	Vth_P_269	0.04991	0.03068
+M_VTH_270	Vth	Vth_N_270	0.04033	0.03183
+M_VTH_271	Vth	Vth_P_271	33.18	22.44
+M_VTH_272	Vth	Vth_N_272	216.3	182.3
+M_VTH_273	Vth	Vth_P_273	1281	1116
+M_VTH_274	Vth	Vth_N_274	49.25	41.64
+M_VTH_275	Vth	Vth_P_275	4.931	3.392
+M_VTH_276	Vth	Vth_N_276	28.87	26.48
+M_VTH_277	Vth	Vth_P_277	0.05343	0.04062
+M_VTH_278	Vth	Vth_N_278	0.02398	0.01666
+M_VTH_279	Vth	Vth_P_279	24.53	17.47
+M_VTH_280	Vth	Vth_N_280	0.6213	0.501
+M_VTH_281	Vth	Vth_P_281	0.9877	0.7149
+M_VTH_282	Vth	Vth_N_282	0.6395	0.5776
+M_VTH_283	Vth	Vth_P_283	183.2	148.2
+M_VTH_284	Vth	Vth_N_284	0.438	0.4013
+M_VTH_285	Vth	Vth_P_285	153.4	114.5
+M_VTH_286	Vth	Vth_N_286	48.72	44.05
+M_VTH_287	Vth	Vth_P_287	124.7	97.49
+M_VTH_288	Vth	Vth_N_288	13.38	10.91
+M_VTH_289	Vth	Vth_P_289	54.3	42.84
+M_VTH_290	Vth	Vth_N_290	234.9	167.8
+M_VTH_291	Vth	Vth_P_291	55.49	32.26
+M_VTH_292	Vth	Vth_N_292	48.31	38.82
+M_VTH_293	Vth	Vth_P_293	5459	4525
+M_VTH_294	Vth	Vth_N_294	51	44.98
+M_VTH_295	Vth	Vth_P_295	0.7987	0.5546
+M_VTH_296	Vth	Vth_N_296	135.6	82.35
+M_VTH_297	Vth	Vth_P_297	0.04525	0.03253
+M_VTH_298	Vth	Vth_N_298	37.54	27.22
+M_VTH_299	Vth	Vth_P_299	152.3	107.1
+M_VTH_300	Vth	Vth_N_300	194.3	136.6
+M_VTH_301	Vth	Vth_P_301	30.61	21.55
+M_VTH_302	Vth	Vth_N_302	0.004592	0.003464
+M_VTH_303	Vth	Vth_P_303	158	112.7
+M_VTH_304	Vth	Vth_N_304	117.8	100.4
+M_VTH_305	Vth	Vth_P_305	4.592	3.732
+M_VTH_306	Vth	Vth_N_306	0.006337	0.004654
+M_VTH_307	Vth	Vth_P_307	26.11	18.53
+M_VTH_308	Vth	Vth_N_308	0.8699	0.7164
+M_VTH_309	Vth	Vth_P_309	1219	1063
+M_VTH_310	Vth	Vth_N_310	4.056	2.907
+M_IDS_001	Drive	Idsat_P_001		
+M_IDS_002	Drive	Idsat_N_002		
+M_IDS_003	Drive	Idsat_P_003		
+M_IDS_004	Drive	Idsat_N_004		
+M_IDS_005	Drive	Idsat_P_005		
+M_IDS_006	Drive	Idsat_N_006		
+M_IDS_007	Drive	Idsat_P_007		
+M_IDS_008	Drive	Idsat_N_008		
+M_IDS_009	Drive	Idsat_P_009		
+M_IDS_010	Drive	Idsat_N_010		
+M_IDS_011	Drive	Idsat_P_011		
+M_IDS_012	Drive	Idsat_N_012		
+M_IDS_013	Drive	Idsat_P_013		
+M_IDS_014	Drive	Idsat_N_014		
+M_IDS_015	Drive	Idsat_P_015		
+M_IDS_016	Drive	Idsat_N_016		
+M_IDS_017	Drive	Idsat_P_017		
+M_IDS_018	Drive	Idsat_N_018		
+M_IDS_019	Drive	Idsat_P_019		
+M_IDS_020	Drive	Idsat_N_020		
+M_IDS_021	Drive	Idsat_P_021		
+M_IDS_022	Drive	Idsat_N_022		
+M_IDS_023	Drive	Idsat_P_023		
+M_IDS_024	Drive	Idsat_N_024		
+M_IDS_025	Drive	Idsat_P_025		
+M_IDS_026	Drive	Idsat_N_026		
+M_IDS_027	Drive	Idsat_P_027		
+M_IDS_028	Drive	Idsat_N_028		
+M_IDS_029	Drive	Idsat_P_029		
+M_IDS_030	Drive	Idsat_N_030		
+M_IDS_031	Drive	Idsat_P_031		
+M_IDS_032	Drive	Idsat_N_032		
+M_IDS_033	Drive	Idsat_P_033		
+M_IDS_034	Drive	Idsat_N_034		
+M_IDS_035	Drive	Idsat_P_035		
+M_IDS_036	Drive	Idsat_N_036		
+M_IDS_037	Drive	Idsat_P_037		
+M_IDS_038	Drive	Idsat_N_038		
+M_IDS_039	Drive	Idsat_P_039		
+M_IDS_040	Drive	Idsat_N_040		
+M_IDS_041	Drive	Idsat_P_041		
+M_IDS_042	Drive	Idsat_N_042		
+M_IDS_043	Drive	Idsat_P_043		
+M_IDS_044	Drive	Idsat_N_044		
+M_IDS_045	Drive	Idsat_P_045		
+M_IDS_046	Drive	Idsat_N_046		
+M_IDS_047	Drive	Idsat_P_047		
+M_IDS_048	Drive	Idsat_N_048		
+M_IDS_049	Drive	Idsat_P_049		
+M_IDS_050	Drive	Idsat_N_050		
+M_IDS_051	Drive	Idsat_P_051		
+M_IDS_052	Drive	Idsat_N_052		
+M_IDS_053	Drive	Idsat_P_053		
+M_IDS_054	Drive	Idsat_N_054		
+M_IDS_055	Drive	Idsat_P_055		
+M_IDS_056	Drive	Idsat_N_056		
+M_IDS_057	Drive	Idsat_P_057		
+M_IDS_058	Drive	Idsat_N_058		
+M_IDS_059	Drive	Idsat_P_059		
+M_IDS_060	Drive	Idsat_N_060		
+M_IDS_061	Drive	Idsat_P_061		
+M_IDS_062	Drive	Idsat_N_062		
+M_IDS_063	Drive	Idsat_P_063		
+M_IDS_064	Drive	Idsat_N_064		
+M_IDS_065	Drive	Idsat_P_065		
+M_IDS_066	Drive	Idsat_N_066		
+M_IDS_067	Drive	Idsat_P_067		
+M_IDS_068	Drive	Idsat_N_068		
+M_IDS_069	Drive	Idsat_P_069		
+M_IDS_070	Drive	Idsat_N_070		
+M_IDS_071	Drive	Idsat_P_071		
+M_IDS_072	Drive	Idsat_N_072		
+M_IDS_073	Drive	Idsat_P_073		
+M_IDS_074	Drive	Idsat_N_074		
+M_IDS_075	Drive	Idsat_P_075		
+M_IDS_076	Drive	Idsat_N_076		
+M_IDS_077	Drive	Idsat_P_077		
+M_IDS_078	Drive	Idsat_N_078		
+M_IDS_079	Drive	Idsat_P_079		
+M_IDS_080	Drive	Idsat_N_080		
+M_IDS_081	Drive	Idsat_P_081		
+M_IDS_082	Drive	Idsat_N_082		
+M_IDS_083	Drive	Idsat_P_083		
+M_IDS_084	Drive	Idsat_N_084		
+M_IDS_085	Drive	Idsat_P_085		
+M_IDS_086	Drive	Idsat_N_086		
+M_IDS_087	Drive	Idsat_P_087		
+M_IDS_088	Drive	Idsat_N_088		
+M_IDS_089	Drive	Idsat_P_089		
+M_IDS_090	Drive	Idsat_N_090		
+M_IDS_091	Drive	Idsat_P_091		
+M_IDS_092	Drive	Idsat_N_092		
+M_IDS_093	Drive	Idsat_P_093		
+M_IDS_094	Drive	Idsat_N_094		
+M_IDS_095	Drive	Idsat_P_095		
+M_IDS_096	Drive	Idsat_N_096		
+M_IDS_097	Drive	Idsat_P_097		
+M_IDS_098	Drive	Idsat_N_098		
+M_IDS_099	Drive	Idsat_P_099		
+M_IDS_100	Drive	Idsat_N_100		
+M_IDS_101	Drive	Idsat_P_101		
+M_IDS_102	Drive	Idsat_N_102		
+M_IDS_103	Drive	Idsat_P_103		
+M_IDS_104	Drive	Idsat_N_104		
+M_IDS_105	Drive	Idsat_P_105		
+M_IDS_106	Drive	Idsat_N_106		
+M_IDS_107	Drive	Idsat_P_107		
+M_IDS_108	Drive	Idsat_N_108		
+M_IDS_109	Drive	Idsat_P_109		
+M_IDS_110	Drive	Idsat_N_110		
+M_IDS_111	Drive	Idsat_P_111		
+M_IDS_112	Drive	Idsat_N_112		
+M_IDS_113	Drive	Idsat_P_113		
+M_IDS_114	Drive	Idsat_N_114		
+M_IDS_115	Drive	Idsat_P_115		
+M_IDS_116	Drive	Idsat_N_116		
+M_IDS_117	Drive	Idsat_P_117		
+M_IDS_118	Drive	Idsat_N_118		
+M_IDS_119	Drive	Idsat_P_119		
+M_IDS_120	Drive	Idsat_N_120		
+M_IDS_121	Drive	Idsat_P_121		
+M_IDS_122	Drive	Idsat_N_122		
+M_IDS_123	Drive	Idsat_P_123		
+M_IDS_124	Drive	Idsat_N_124		
+M_IDS_125	Drive	Idsat_P_125		
+M_IDS_126	Drive	Idsat_N_126		
+M_IDS_127	Drive	Idsat_P_127		
+M_IDS_128	Drive	Idsat_N_128		
+M_IDS_129	Drive	Idsat_P_129		
+M_IDS_130	Drive	Idsat_N_130		
+M_IDS_131	Drive	Idsat_P_131		
+M_IDS_132	Drive	Idsat_N_132		
+M_IDS_133	Drive	Idsat_P_133		
+M_IDS_134	Drive	Idsat_N_134		
+M_IDS_135	Drive	Idsat_P_135		
+M_IDS_136	Drive	Idsat_N_136		
+M_IDS_137	Drive	Idsat_P_137		
+M_IDS_138	Drive	Idsat_N_138		
+M_IDS_139	Drive	Idsat_P_139		
+M_IDS_140	Drive	Idsat_N_140		
+M_IDS_141	Drive	Idsat_P_141		
+M_IDS_142	Drive	Idsat_N_142		
+M_IDS_143	Drive	Idsat_P_143		
+M_IDS_144	Drive	Idsat_N_144		
+M_IDS_145	Drive	Idsat_P_145		
+M_IDS_146	Drive	Idsat_N_146		
+M_IDS_147	Drive	Idsat_P_147		
+M_IDS_148	Drive	Idsat_N_148		
+M_IDS_149	Drive	Idsat_P_149		
+M_IDS_150	Drive	Idsat_N_150		
+M_IDS_151	Drive	Idsat_P_151		
+M_IDS_152	Drive	Idsat_N_152		
+M_IDS_153	Drive	Idsat_P_153		
+M_IDS_154	Drive	Idsat_N_154		
+M_IDS_155	Drive	Idsat_P_155		
+M_IDS_156	Drive	Idsat_N_156		
+M_IDS_157	Drive	Idsat_P_157		
+M_IDS_158	Drive	Idsat_N_158		
+M_IDS_159	Drive	Idsat_P_159		
+M_IDS_160	Drive	Idsat_N_160		
+M_IDS_161	Drive	Idsat_P_161		
+M_IDS_162	Drive	Idsat_N_162		
+M_IDS_163	Drive	Idsat_P_163		
+M_IDS_164	Drive	Idsat_N_164		
+M_IDS_165	Drive	Idsat_P_165		
+M_IDS_166	Drive	Idsat_N_166		
+M_IDS_167	Drive	Idsat_P_167		
+M_IDS_168	Drive	Idsat_N_168		
+M_IDS_169	Drive	Idsat_P_169		
+M_IDS_170	Drive	Idsat_N_170		
+M_IDS_171	Drive	Idsat_P_171		
+M_IDS_172	Drive	Idsat_N_172		
+M_IDS_173	Drive	Idsat_P_173		
+M_IDS_174	Drive	Idsat_N_174		
+M_IDS_175	Drive	Idsat_P_175		
+M_IDS_176	Drive	Idsat_N_176		
+M_IDS_177	Drive	Idsat_P_177		
+M_IDS_178	Drive	Idsat_N_178		
+M_IDS_179	Drive	Idsat_P_179		
+M_IDS_180	Drive	Idsat_N_180		
+M_IDS_181	Drive	Idsat_P_181		
+M_IDS_182	Drive	Idsat_N_182		
+M_IDS_183	Drive	Idsat_P_183		
+M_IDS_184	Drive	Idsat_N_184		
+M_IDS_185	Drive	Idsat_P_185		
+M_IDS_186	Drive	Idsat_N_186		
+M_IDS_187	Drive	Idsat_P_187		
+M_IDS_188	Drive	Idsat_N_188		
+M_IDS_189	Drive	Idsat_P_189		
+M_IDS_190	Drive	Idsat_N_190		
+M_IDS_191	Drive	Idsat_P_191		
+M_IDS_192	Drive	Idsat_N_192		
+M_IDS_193	Drive	Idsat_P_193		
+M_IDS_194	Drive	Idsat_N_194		
+M_IDS_195	Drive	Idsat_P_195		
+M_IDS_196	Drive	Idsat_N_196		
+M_IDS_197	Drive	Idsat_P_197		
+M_IDS_198	Drive	Idsat_N_198		
+M_IDS_199	Drive	Idsat_P_199		
+M_IDS_200	Drive	Idsat_N_200		
+M_IDS_201	Drive	Idsat_P_201		
+M_IDS_202	Drive	Idsat_N_202		
+M_IDS_203	Drive	Idsat_P_203		
+M_IDS_204	Drive	Idsat_N_204		
+M_IDS_205	Drive	Idsat_P_205		
+M_IDS_206	Drive	Idsat_N_206		
+M_IDS_207	Drive	Idsat_P_207		
+M_IDS_208	Drive	Idsat_N_208		
+M_IDS_209	Drive	Idsat_P_209		
+M_IDS_210	Drive	Idsat_N_210		
+M_IDS_211	Drive	Idsat_P_211		
+M_IDS_212	Drive	Idsat_N_212		
+M_IDS_213	Drive	Idsat_P_213		
+M_IDS_214	Drive	Idsat_N_214		
+M_IDS_215	Drive	Idsat_P_215		
+M_IDS_216	Drive	Idsat_N_216		
+M_IDS_217	Drive	Idsat_P_217		
+M_IDS_218	Drive	Idsat_N_218		
+M_IDS_219	Drive	Idsat_P_219		
+M_IDS_220	Drive	Idsat_N_220		
+M_IDS_221	Drive	Idsat_P_221		
+M_IDS_222	Drive	Idsat_N_222		
+M_IDS_223	Drive	Idsat_P_223		
+M_IDS_224	Drive	Idsat_N_224		
+M_IDS_225	Drive	Idsat_P_225		
+M_IDS_226	Drive	Idsat_N_226		
+M_IDS_227	Drive	Idsat_P_227		
+M_IDS_228	Drive	Idsat_N_228		
+M_IDS_229	Drive	Idsat_P_229		
+M_IDS_230	Drive	Idsat_N_230		
+M_IDS_231	Drive	Idsat_P_231		
+M_IDS_232	Drive	Idsat_N_232		
+M_IDS_233	Drive	Idsat_P_233		
+M_IDS_234	Drive	Idsat_N_234		
+M_IDS_235	Drive	Idsat_P_235		
+M_IDS_236	Drive	Idsat_N_236		
+M_IDS_237	Drive	Idsat_P_237		
+M_IDS_238	Drive	Idsat_N_238		
+M_IDS_239	Drive	Idsat_P_239		
+M_IDS_240	Drive	Idsat_N_240		
+M_IDS_241	Drive	Idsat_P_241		
+M_IDS_242	Drive	Idsat_N_242		
+M_IDS_243	Drive	Idsat_P_243		
+M_IDS_244	Drive	Idsat_N_244		
+M_IDS_245	Drive	Idsat_P_245		
+M_IDS_246	Drive	Idsat_N_246		
+M_IDS_247	Drive	Idsat_P_247		
+M_IDS_248	Drive	Idsat_N_248		
+M_IDS_249	Drive	Idsat_P_249		
+M_IDS_250	Drive	Idsat_N_250		
+M_IDS_251	Drive	Idsat_P_251		
+M_IDS_252	Drive	Idsat_N_252		
+M_IDS_253	Drive	Idsat_P_253		
+M_IDS_254	Drive	Idsat_N_254		
+M_IDS_255	Drive	Idsat_P_255		
+M_IDS_256	Drive	Idsat_N_256		
+M_IDS_257	Drive	Idsat_P_257		
+M_IDS_258	Drive	Idsat_N_258		
+M_IDS_259	Drive	Idsat_P_259		
+M_IDS_260	Drive	Idsat_N_260		
+M_IDS_261	Drive	Idsat_P_261		
+M_IDS_262	Drive	Idsat_N_262		
+M_IDS_263	Drive	Idsat_P_263		
+M_IDS_264	Drive	Idsat_N_264		
+M_IDS_265	Drive	Idsat_P_265		
+M_IDS_266	Drive	Idsat_N_266		
+M_IDS_267	Drive	Idsat_P_267		
+M_IDS_268	Drive	Idsat_N_268		
+M_IDS_269	Drive	Idsat_P_269		
+M_IDS_270	Drive	Idsat_N_270		
+M_IDS_271	Drive	Idsat_P_271		
+M_IDS_272	Drive	Idsat_N_272		
+M_IDS_273	Drive	Idsat_P_273		
+M_IDS_274	Drive	Idsat_N_274		
+M_IDS_275	Drive	Idsat_P_275		
+M_IDS_276	Drive	Idsat_N_276		
+M_IDS_277	Drive	Idsat_P_277		
+M_IDS_278	Drive	Idsat_N_278		
+M_IDS_279	Drive	Idsat_P_279		
+M_IDS_280	Drive	Idsat_N_280		
+M_IDS_281	Drive	Idsat_P_281		
+M_IDS_282	Drive	Idsat_N_282		
+M_IDS_283	Drive	Idsat_P_283		
+M_IDS_284	Drive	Idsat_N_284		
+M_IDS_285	Drive	Idsat_P_285		
+M_IDS_286	Drive	Idsat_N_286		
+M_IDS_287	Drive	Idsat_P_287		
+M_IDS_288	Drive	Idsat_N_288		
+M_IDS_289	Drive	Idsat_P_289		
+M_IDS_290	Drive	Idsat_N_290		
+M_IDS_291	Drive	Idsat_P_291		
+M_IDS_292	Drive	Idsat_N_292		
+M_IDS_293	Drive	Idsat_P_293		
+M_IDS_294	Drive	Idsat_N_294		
+M_IDS_295	Drive	Idsat_P_295		
+M_IDS_296	Drive	Idsat_N_296		
+M_IDS_297	Drive	Idsat_P_297		
+M_IDS_298	Drive	Idsat_N_298		
+M_IDS_299	Drive	Idsat_P_299		
+M_IDS_300	Drive	Idsat_N_300		
+M_IDS_301	Drive	Idsat_P_301		
+M_IDS_302	Drive	Idsat_N_302		
+M_IDS_303	Drive	Idsat_P_303		
+M_IDS_304	Drive	Idsat_N_304		
+M_IDS_305	Drive	Idsat_P_305		
+M_IDS_306	Drive	Idsat_N_306		
+M_IDS_307	Drive	Idsat_P_307		
+M_IDS_308	Drive	Idsat_N_308		
+M_IDS_309	Drive	Idsat_P_309		
+M_IDS_310	Drive	Idsat_N_310		
+M_RES_001	Resistance	Rs_P_001		
+M_RES_002	Resistance	Rs_N_002		
+M_RES_003	Resistance	Rs_P_003		
+M_RES_004	Resistance	Rs_N_004		
+M_RES_005	Resistance	Rs_P_005		
+M_RES_006	Resistance	Rs_N_006		
+M_RES_007	Resistance	Rs_P_007		
+M_RES_008	Resistance	Rs_N_008		
+M_RES_009	Resistance	Rs_P_009		
+M_RES_010	Resistance	Rs_N_010		
+M_RES_011	Resistance	Rs_P_011		
+M_RES_012	Resistance	Rs_N_012		
+M_RES_013	Resistance	Rs_P_013		
+M_RES_014	Resistance	Rs_N_014		
+M_RES_015	Resistance	Rs_P_015		
+M_RES_016	Resistance	Rs_N_016		
+M_RES_017	Resistance	Rs_P_017		
+M_RES_018	Resistance	Rs_N_018		
+M_RES_019	Resistance	Rs_P_019		
+M_RES_020	Resistance	Rs_N_020		
+M_RES_021	Resistance	Rs_P_021		
+M_RES_022	Resistance	Rs_N_022		
+M_RES_023	Resistance	Rs_P_023		
+M_RES_024	Resistance	Rs_N_024		
+M_RES_025	Resistance	Rs_P_025		
+M_RES_026	Resistance	Rs_N_026		
+M_RES_027	Resistance	Rs_P_027		
+M_RES_028	Resistance	Rs_N_028		
+M_RES_029	Resistance	Rs_P_029		
+M_RES_030	Resistance	Rs_N_030		
+M_RES_031	Resistance	Rs_P_031		
+M_RES_032	Resistance	Rs_N_032		
+M_RES_033	Resistance	Rs_P_033		
+M_RES_034	Resistance	Rs_N_034		
+M_RES_035	Resistance	Rs_P_035		
+M_RES_036	Resistance	Rs_N_036		
+M_RES_037	Resistance	Rs_P_037		
+M_RES_038	Resistance	Rs_N_038		
+M_RES_039	Resistance	Rs_P_039		
+M_RES_040	Resistance	Rs_N_040		
+M_RES_041	Resistance	Rs_P_041		
+M_RES_042	Resistance	Rs_N_042		
+M_RES_043	Resistance	Rs_P_043		
+M_RES_044	Resistance	Rs_N_044		
+M_RES_045	Resistance	Rs_P_045		
+M_RES_046	Resistance	Rs_N_046		
+M_RES_047	Resistance	Rs_P_047		
+M_RES_048	Resistance	Rs_N_048		
+M_RES_049	Resistance	Rs_P_049		
+M_RES_050	Resistance	Rs_N_050		
+M_RES_051	Resistance	Rs_P_051		
+M_RES_052	Resistance	Rs_N_052		
+M_RES_053	Resistance	Rs_P_053		
+M_RES_054	Resistance	Rs_N_054		
+M_RES_055	Resistance	Rs_P_055		
+M_RES_056	Resistance	Rs_N_056		
+M_RES_057	Resistance	Rs_P_057		
+M_RES_058	Resistance	Rs_N_058		
+M_RES_059	Resistance	Rs_P_059		
+M_RES_060	Resistance	Rs_N_060		
+M_RES_061	Resistance	Rs_P_061		
+M_RES_062	Resistance	Rs_N_062		
+M_RES_063	Resistance	Rs_P_063		
+M_RES_064	Resistance	Rs_N_064		
+M_RES_065	Resistance	Rs_P_065		
+M_RES_066	Resistance	Rs_N_066		
+M_RES_067	Resistance	Rs_P_067		
+M_RES_068	Resistance	Rs_N_068		
+M_RES_069	Resistance	Rs_P_069		
+M_RES_070	Resistance	Rs_N_070		
+M_RES_071	Resistance	Rs_P_071		
+M_RES_072	Resistance	Rs_N_072		
+M_RES_073	Resistance	Rs_P_073		
+M_RES_074	Resistance	Rs_N_074		
+M_RES_075	Resistance	Rs_P_075		
+M_RES_076	Resistance	Rs_N_076		
+M_RES_077	Resistance	Rs_P_077		
+M_RES_078	Resistance	Rs_N_078		
+M_RES_079	Resistance	Rs_P_079		
+M_RES_080	Resistance	Rs_N_080		
+M_RES_081	Resistance	Rs_P_081		
+M_RES_082	Resistance	Rs_N_082		
+M_RES_083	Resistance	Rs_P_083		
+M_RES_084	Resistance	Rs_N_084		
+M_RES_085	Resistance	Rs_P_085		
+M_RES_086	Resistance	Rs_N_086		
+M_RES_087	Resistance	Rs_P_087		
+M_RES_088	Resistance	Rs_N_088		
+M_RES_089	Resistance	Rs_P_089		
+M_RES_090	Resistance	Rs_N_090		
+M_RES_091	Resistance	Rs_P_091		
+M_RES_092	Resistance	Rs_N_092		
+M_RES_093	Resistance	Rs_P_093		
+M_RES_094	Resistance	Rs_N_094		
+M_RES_095	Resistance	Rs_P_095		
+M_RES_096	Resistance	Rs_N_096		
+M_RES_097	Resistance	Rs_P_097		
+M_RES_098	Resistance	Rs_N_098		
+M_RES_099	Resistance	Rs_P_099		
+M_RES_100	Resistance	Rs_N_100		
+M_RES_101	Resistance	Rs_P_101		
+M_RES_102	Resistance	Rs_N_102		
+M_RES_103	Resistance	Rs_P_103		
+M_RES_104	Resistance	Rs_N_104		
+M_RES_105	Resistance	Rs_P_105		
+M_RES_106	Resistance	Rs_N_106		
+M_RES_107	Resistance	Rs_P_107		
+M_RES_108	Resistance	Rs_N_108		
+M_RES_109	Resistance	Rs_P_109		
+M_RES_110	Resistance	Rs_N_110		
+M_RES_111	Resistance	Rs_P_111		
+M_RES_112	Resistance	Rs_N_112		
+M_RES_113	Resistance	Rs_P_113		
+M_RES_114	Resistance	Rs_N_114		
+M_RES_115	Resistance	Rs_P_115		
+M_RES_116	Resistance	Rs_N_116		
+M_RES_117	Resistance	Rs_P_117		
+M_RES_118	Resistance	Rs_N_118		
+M_RES_119	Resistance	Rs_P_119		
+M_RES_120	Resistance	Rs_N_120		
+M_RES_121	Resistance	Rs_P_121		
+M_RES_122	Resistance	Rs_N_122		
+M_RES_123	Resistance	Rs_P_123		
+M_RES_124	Resistance	Rs_N_124		
+M_RES_125	Resistance	Rs_P_125		
+M_RES_126	Resistance	Rs_N_126		
+M_RES_127	Resistance	Rs_P_127		
+M_RES_128	Resistance	Rs_N_128		
+M_RES_129	Resistance	Rs_P_129		
+M_RES_130	Resistance	Rs_N_130		
+M_RES_131	Resistance	Rs_P_131		
+M_RES_132	Resistance	Rs_N_132		
+M_RES_133	Resistance	Rs_P_133		
+M_RES_134	Resistance	Rs_N_134		
+M_RES_135	Resistance	Rs_P_135		
+M_RES_136	Resistance	Rs_N_136		
+M_RES_137	Resistance	Rs_P_137		
+M_RES_138	Resistance	Rs_N_138		
+M_RES_139	Resistance	Rs_P_139		
+M_RES_140	Resistance	Rs_N_140		
+M_RES_141	Resistance	Rs_P_141		
+M_RES_142	Resistance	Rs_N_142		
+M_RES_143	Resistance	Rs_P_143		
+M_RES_144	Resistance	Rs_N_144		
+M_RES_145	Resistance	Rs_P_145		
+M_RES_146	Resistance	Rs_N_146		
+M_RES_147	Resistance	Rs_P_147		
+M_RES_148	Resistance	Rs_N_148		
+M_RES_149	Resistance	Rs_P_149		
+M_RES_150	Resistance	Rs_N_150		
+M_RES_151	Resistance	Rs_P_151		
+M_RES_152	Resistance	Rs_N_152		
+M_RES_153	Resistance	Rs_P_153		
+M_RES_154	Resistance	Rs_N_154		
+M_RES_155	Resistance	Rs_P_155		
+M_RES_156	Resistance	Rs_N_156		
+M_RES_157	Resistance	Rs_P_157		
+M_RES_158	Resistance	Rs_N_158		
+M_RES_159	Resistance	Rs_P_159		
+M_RES_160	Resistance	Rs_N_160		
+M_RES_161	Resistance	Rs_P_161		
+M_RES_162	Resistance	Rs_N_162		
+M_RES_163	Resistance	Rs_P_163		
+M_RES_164	Resistance	Rs_N_164		
+M_RES_165	Resistance	Rs_P_165		
+M_RES_166	Resistance	Rs_N_166		
+M_RES_167	Resistance	Rs_P_167		
+M_RES_168	Resistance	Rs_N_168		
+M_RES_169	Resistance	Rs_P_169		
+M_RES_170	Resistance	Rs_N_170		
+M_RES_171	Resistance	Rs_P_171		
+M_RES_172	Resistance	Rs_N_172		
+M_RES_173	Resistance	Rs_P_173		
+M_RES_174	Resistance	Rs_N_174		
+M_RES_175	Resistance	Rs_P_175		
+M_RES_176	Resistance	Rs_N_176		
+M_RES_177	Resistance	Rs_P_177		
+M_RES_178	Resistance	Rs_N_178		
+M_RES_179	Resistance	Rs_P_179		
+M_RES_180	Resistance	Rs_N_180		
+M_RES_181	Resistance	Rs_P_181		
+M_RES_182	Resistance	Rs_N_182		
+M_RES_183	Resistance	Rs_P_183		
+M_RES_184	Resistance	Rs_N_184		
+M_RES_185	Resistance	Rs_P_185		
+M_RES_186	Resistance	Rs_N_186		
+M_RES_187	Resistance	Rs_P_187		
+M_RES_188	Resistance	Rs_N_188		
+M_RES_189	Resistance	Rs_P_189		
+M_RES_190	Resistance	Rs_N_190		
+M_RES_191	Resistance	Rs_P_191		
+M_RES_192	Resistance	Rs_N_192		
+M_RES_193	Resistance	Rs_P_193		
+M_RES_194	Resistance	Rs_N_194		
+M_RES_195	Resistance	Rs_P_195		
+M_RES_196	Resistance	Rs_N_196		
+M_RES_197	Resistance	Rs_P_197		
+M_RES_198	Resistance	Rs_N_198		
+M_RES_199	Resistance	Rs_P_199		
+M_RES_200	Resistance	Rs_N_200		
+M_RES_201	Resistance	Rs_P_201		
+M_RES_202	Resistance	Rs_N_202		
+M_RES_203	Resistance	Rs_P_203		
+M_RES_204	Resistance	Rs_N_204		
+M_RES_205	Resistance	Rs_P_205		
+M_RES_206	Resistance	Rs_N_206		
+M_RES_207	Resistance	Rs_P_207		
+M_RES_208	Resistance	Rs_N_208		
+M_RES_209	Resistance	Rs_P_209		
+M_RES_210	Resistance	Rs_N_210		
+M_RES_211	Resistance	Rs_P_211		
+M_RES_212	Resistance	Rs_N_212		
+M_RES_213	Resistance	Rs_P_213		
+M_RES_214	Resistance	Rs_N_214		
+M_RES_215	Resistance	Rs_P_215		
+M_RES_216	Resistance	Rs_N_216		
+M_RES_217	Resistance	Rs_P_217		
+M_RES_218	Resistance	Rs_N_218		
+M_RES_219	Resistance	Rs_P_219		
+M_RES_220	Resistance	Rs_N_220		
+M_RES_221	Resistance	Rs_P_221		
+M_RES_222	Resistance	Rs_N_222		
+M_RES_223	Resistance	Rs_P_223		
+M_RES_224	Resistance	Rs_N_224		
+M_RES_225	Resistance	Rs_P_225		
+M_RES_226	Resistance	Rs_N_226		
+M_RES_227	Resistance	Rs_P_227		
+M_RES_228	Resistance	Rs_N_228		
+M_RES_229	Resistance	Rs_P_229		
+M_RES_230	Resistance	Rs_N_230		
+M_RES_231	Resistance	Rs_P_231		
+M_RES_232	Resistance	Rs_N_232		
+M_RES_233	Resistance	Rs_P_233		
+M_RES_234	Resistance	Rs_N_234		
+M_RES_235	Resistance	Rs_P_235		
+M_RES_236	Resistance	Rs_N_236		
+M_RES_237	Resistance	Rs_P_237		
+M_RES_238	Resistance	Rs_N_238		
+M_RES_239	Resistance	Rs_P_239		
+M_RES_240	Resistance	Rs_N_240		
+M_RES_241	Resistance	Rs_P_241		
+M_RES_242	Resistance	Rs_N_242		
+M_RES_243	Resistance	Rs_P_243		
+M_RES_244	Resistance	Rs_N_244		
+M_RES_245	Resistance	Rs_P_245		
+M_RES_246	Resistance	Rs_N_246		
+M_RES_247	Resistance	Rs_P_247		
+M_RES_248	Resistance	Rs_N_248		
+M_RES_249	Resistance	Rs_P_249		
+M_RES_250	Resistance	Rs_N_250		
+M_RES_251	Resistance	Rs_P_251		
+M_RES_252	Resistance	Rs_N_252		
+M_RES_253	Resistance	Rs_P_253		
+M_RES_254	Resistance	Rs_N_254		
+M_RES_255	Resistance	Rs_P_255		
+M_RES_256	Resistance	Rs_N_256		
+M_RES_257	Resistance	Rs_P_257		
+M_RES_258	Resistance	Rs_N_258		
+M_RES_259	Resistance	Rs_P_259		
+M_RES_260	Resistance	Rs_N_260		
+M_RES_261	Resistance	Rs_P_261		
+M_RES_262	Resistance	Rs_N_262		
+M_RES_263	Resistance	Rs_P_263		
+M_RES_264	Resistance	Rs_N_264		
+M_RES_265	Resistance	Rs_P_265		
+M_RES_266	Resistance	Rs_N_266		
+M_RES_267	Resistance	Rs_P_267		
+M_RES_268	Resistance	Rs_N_268		
+M_RES_269	Resistance	Rs_P_269		
+M_RES_270	Resistance	Rs_N_270		
+M_RES_271	Resistance	Rs_P_271		
+M_RES_272	Resistance	Rs_N_272		
+M_RES_273	Resistance	Rs_P_273		
+M_RES_274	Resistance	Rs_N_274		
+M_RES_275	Resistance	Rs_P_275		
+M_RES_276	Resistance	Rs_N_276		
+M_RES_277	Resistance	Rs_P_277		
+M_RES_278	Resistance	Rs_N_278		
+M_RES_279	Resistance	Rs_P_279		
+M_RES_280	Resistance	Rs_N_280		
+M_RES_281	Resistance	Rs_P_281		
+M_RES_282	Resistance	Rs_N_282		
+M_RES_283	Resistance	Rs_P_283		
+M_RES_284	Resistance	Rs_N_284		
+M_RES_285	Resistance	Rs_P_285		
+M_RES_286	Resistance	Rs_N_286		
+M_RES_287	Resistance	Rs_P_287		
+M_RES_288	Resistance	Rs_N_288		
+M_RES_289	Resistance	Rs_P_289		
+M_RES_290	Resistance	Rs_N_290		
+M_RES_291	Resistance	Rs_P_291		
+M_RES_292	Resistance	Rs_N_292		
+M_RES_293	Resistance	Rs_P_293		
+M_RES_294	Resistance	Rs_N_294		
+M_RES_295	Resistance	Rs_P_295		
+M_RES_296	Resistance	Rs_N_296		
+M_RES_297	Resistance	Rs_P_297		
+M_RES_298	Resistance	Rs_N_298		
+M_RES_299	Resistance	Rs_P_299		
+M_RES_300	Resistance	Rs_N_300		
+M_RES_301	Resistance	Rs_P_301		
+M_RES_302	Resistance	Rs_N_302		
+M_RES_303	Resistance	Rs_P_303		
+M_RES_304	Resistance	Rs_N_304		
+M_RES_305	Resistance	Rs_P_305		
+M_RES_306	Resistance	Rs_N_306		
+M_RES_307	Resistance	Rs_P_307		
+M_RES_308	Resistance	Rs_N_308		
+M_RES_309	Resistance	Rs_P_309		
+M_RES_310	Resistance	Rs_N_310		
+M_LKG_001	Leakage	Ijunc_P_001		
+M_LKG_002	Leakage	Ijunc_N_002		
+M_LKG_003	Leakage	Ijunc_P_003		
+M_LKG_004	Leakage	Ijunc_N_004		
+M_LKG_005	Leakage	Ijunc_P_005		
+M_LKG_006	Leakage	Ijunc_N_006		
+M_LKG_007	Leakage	Ijunc_P_007		
+M_LKG_008	Leakage	Ijunc_N_008		
+M_LKG_009	Leakage	Ijunc_P_009		
+M_LKG_010	Leakage	Ijunc_N_010		
+M_LKG_011	Leakage	Ijunc_P_011		
+M_LKG_012	Leakage	Ijunc_N_012		
+M_LKG_013	Leakage	Ijunc_P_013		
+M_LKG_014	Leakage	Ijunc_N_014		
+M_LKG_015	Leakage	Ijunc_P_015		
+M_LKG_016	Leakage	Ijunc_N_016		
+M_LKG_017	Leakage	Ijunc_P_017		
+M_LKG_018	Leakage	Ijunc_N_018		
+M_LKG_019	Leakage	Ijunc_P_019		
+M_LKG_020	Leakage	Ijunc_N_020		
+M_LKG_021	Leakage	Ijunc_P_021		
+M_LKG_022	Leakage	Ijunc_N_022		
+M_LKG_023	Leakage	Ijunc_P_023		
+M_LKG_024	Leakage	Ijunc_N_024		
+M_LKG_025	Leakage	Ijunc_P_025		
+M_LKG_026	Leakage	Ijunc_N_026		
+M_LKG_027	Leakage	Ijunc_P_027		
+M_LKG_028	Leakage	Ijunc_N_028		
+M_LKG_029	Leakage	Ijunc_P_029		
+M_LKG_030	Leakage	Ijunc_N_030		
+M_LKG_031	Leakage	Ijunc_P_031		
+M_LKG_032	Leakage	Ijunc_N_032		
+M_LKG_033	Leakage	Ijunc_P_033		
+M_LKG_034	Leakage	Ijunc_N_034		
+M_LKG_035	Leakage	Ijunc_P_035		
+M_LKG_036	Leakage	Ijunc_N_036		
+M_LKG_037	Leakage	Ijunc_P_037		
+M_LKG_038	Leakage	Ijunc_N_038		
+M_LKG_039	Leakage	Ijunc_P_039		
+M_LKG_040	Leakage	Ijunc_N_040		
+M_LKG_041	Leakage	Ijunc_P_041		
+M_LKG_042	Leakage	Ijunc_N_042		
+M_LKG_043	Leakage	Ijunc_P_043		
+M_LKG_044	Leakage	Ijunc_N_044		
+M_LKG_045	Leakage	Ijunc_P_045		
+M_LKG_046	Leakage	Ijunc_N_046		
+M_LKG_047	Leakage	Ijunc_P_047		
+M_LKG_048	Leakage	Ijunc_N_048		
+M_LKG_049	Leakage	Ijunc_P_049		
+M_LKG_050	Leakage	Ijunc_N_050		
+M_LKG_051	Leakage	Ijunc_P_051		
+M_LKG_052	Leakage	Ijunc_N_052		
+M_LKG_053	Leakage	Ijunc_P_053		
+M_LKG_054	Leakage	Ijunc_N_054		
+M_LKG_055	Leakage	Ijunc_P_055		
+M_LKG_056	Leakage	Ijunc_N_056		
+M_LKG_057	Leakage	Ijunc_P_057		
+M_LKG_058	Leakage	Ijunc_N_058		
+M_LKG_059	Leakage	Ijunc_P_059		
+M_LKG_060	Leakage	Ijunc_N_060		
+M_LKG_061	Leakage	Ijunc_P_061		
+M_LKG_062	Leakage	Ijunc_N_062		
+M_LKG_063	Leakage	Ijunc_P_063		
+M_LKG_064	Leakage	Ijunc_N_064		
+M_LKG_065	Leakage	Ijunc_P_065		
+M_LKG_066	Leakage	Ijunc_N_066		
+M_LKG_067	Leakage	Ijunc_P_067		
+M_LKG_068	Leakage	Ijunc_N_068		
+M_LKG_069	Leakage	Ijunc_P_069		
+M_LKG_070	Leakage	Ijunc_N_070		
+M_LKG_071	Leakage	Ijunc_P_071		
+M_LKG_072	Leakage	Ijunc_N_072		
+M_LKG_073	Leakage	Ijunc_P_073		
+M_LKG_074	Leakage	Ijunc_N_074		
+M_LKG_075	Leakage	Ijunc_P_075		
+M_LKG_076	Leakage	Ijunc_N_076		
+M_LKG_077	Leakage	Ijunc_P_077		
+M_LKG_078	Leakage	Ijunc_N_078		
+M_LKG_079	Leakage	Ijunc_P_079		
+M_LKG_080	Leakage	Ijunc_N_080		
+M_LKG_081	Leakage	Ijunc_P_081		
+M_LKG_082	Leakage	Ijunc_N_082		
+M_LKG_083	Leakage	Ijunc_P_083		
+M_LKG_084	Leakage	Ijunc_N_084		
+M_LKG_085	Leakage	Ijunc_P_085		
+M_LKG_086	Leakage	Ijunc_N_086		
+M_LKG_087	Leakage	Ijunc_P_087		
+M_LKG_088	Leakage	Ijunc_N_088		
+M_LKG_089	Leakage	Ijunc_P_089		
+M_LKG_090	Leakage	Ijunc_N_090		
+M_LKG_091	Leakage	Ijunc_P_091		
+M_LKG_092	Leakage	Ijunc_N_092		
+M_LKG_093	Leakage	Ijunc_P_093		
+M_LKG_094	Leakage	Ijunc_N_094		
+M_LKG_095	Leakage	Ijunc_P_095		
+M_LKG_096	Leakage	Ijunc_N_096		
+M_LKG_097	Leakage	Ijunc_P_097		
+M_LKG_098	Leakage	Ijunc_N_098		
+M_LKG_099	Leakage	Ijunc_P_099		
+M_LKG_100	Leakage	Ijunc_N_100		
+M_LKG_101	Leakage	Ijunc_P_101		
+M_LKG_102	Leakage	Ijunc_N_102		
+M_LKG_103	Leakage	Ijunc_P_103		
+M_LKG_104	Leakage	Ijunc_N_104		
+M_LKG_105	Leakage	Ijunc_P_105		
+M_LKG_106	Leakage	Ijunc_N_106		
+M_LKG_107	Leakage	Ijunc_P_107		
+M_LKG_108	Leakage	Ijunc_N_108		
+M_LKG_109	Leakage	Ijunc_P_109		
+M_LKG_110	Leakage	Ijunc_N_110		
+M_LKG_111	Leakage	Ijunc_P_111		
+M_LKG_112	Leakage	Ijunc_N_112		
+M_LKG_113	Leakage	Ijunc_P_113		
+M_LKG_114	Leakage	Ijunc_N_114		
+M_LKG_115	Leakage	Ijunc_P_115		
+M_LKG_116	Leakage	Ijunc_N_116		
+M_LKG_117	Leakage	Ijunc_P_117		
+M_LKG_118	Leakage	Ijunc_N_118		
+M_LKG_119	Leakage	Ijunc_P_119		
+M_LKG_120	Leakage	Ijunc_N_120		
+M_LKG_121	Leakage	Ijunc_P_121		
+M_LKG_122	Leakage	Ijunc_N_122		
+M_LKG_123	Leakage	Ijunc_P_123		
+M_LKG_124	Leakage	Ijunc_N_124		
+M_LKG_125	Leakage	Ijunc_P_125		
+M_LKG_126	Leakage	Ijunc_N_126		
+M_LKG_127	Leakage	Ijunc_P_127		
+M_LKG_128	Leakage	Ijunc_N_128		
+M_LKG_129	Leakage	Ijunc_P_129		
+M_LKG_130	Leakage	Ijunc_N_130		
+M_LKG_131	Leakage	Ijunc_P_131		
+M_LKG_132	Leakage	Ijunc_N_132		
+M_LKG_133	Leakage	Ijunc_P_133		
+M_LKG_134	Leakage	Ijunc_N_134		
+M_LKG_135	Leakage	Ijunc_P_135		
+M_LKG_136	Leakage	Ijunc_N_136		
+M_LKG_137	Leakage	Ijunc_P_137		
+M_LKG_138	Leakage	Ijunc_N_138		
+M_LKG_139	Leakage	Ijunc_P_139		
+M_LKG_140	Leakage	Ijunc_N_140		
+M_LKG_141	Leakage	Ijunc_P_141		
+M_LKG_142	Leakage	Ijunc_N_142		
+M_LKG_143	Leakage	Ijunc_P_143		
+M_LKG_144	Leakage	Ijunc_N_144		
+M_LKG_145	Leakage	Ijunc_P_145		
+M_LKG_146	Leakage	Ijunc_N_146		
+M_LKG_147	Leakage	Ijunc_P_147		
+M_LKG_148	Leakage	Ijunc_N_148		
+M_LKG_149	Leakage	Ijunc_P_149		
+M_LKG_150	Leakage	Ijunc_N_150		
+M_LKG_151	Leakage	Ijunc_P_151		
+M_LKG_152	Leakage	Ijunc_N_152		
+M_LKG_153	Leakage	Ijunc_P_153		
+M_LKG_154	Leakage	Ijunc_N_154		
+M_LKG_155	Leakage	Ijunc_P_155		
+M_LKG_156	Leakage	Ijunc_N_156		
+M_LKG_157	Leakage	Ijunc_P_157		
+M_LKG_158	Leakage	Ijunc_N_158		
+M_LKG_159	Leakage	Ijunc_P_159		
+M_LKG_160	Leakage	Ijunc_N_160		
+M_LKG_161	Leakage	Ijunc_P_161		
+M_LKG_162	Leakage	Ijunc_N_162		
+M_LKG_163	Leakage	Ijunc_P_163		
+M_LKG_164	Leakage	Ijunc_N_164		
+M_LKG_165	Leakage	Ijunc_P_165		
+M_LKG_166	Leakage	Ijunc_N_166		
+M_LKG_167	Leakage	Ijunc_P_167		
+M_LKG_168	Leakage	Ijunc_N_168		
+M_LKG_169	Leakage	Ijunc_P_169		
+M_LKG_170	Leakage	Ijunc_N_170		
+M_LKG_171	Leakage	Ijunc_P_171		
+M_LKG_172	Leakage	Ijunc_N_172		
+M_LKG_173	Leakage	Ijunc_P_173		
+M_LKG_174	Leakage	Ijunc_N_174		
+M_LKG_175	Leakage	Ijunc_P_175		
+M_LKG_176	Leakage	Ijunc_N_176		
+M_LKG_177	Leakage	Ijunc_P_177		
+M_LKG_178	Leakage	Ijunc_N_178		
+M_LKG_179	Leakage	Ijunc_P_179		
+M_LKG_180	Leakage	Ijunc_N_180		
+M_LKG_181	Leakage	Ijunc_P_181		
+M_LKG_182	Leakage	Ijunc_N_182		
+M_LKG_183	Leakage	Ijunc_P_183		
+M_LKG_184	Leakage	Ijunc_N_184		
+M_LKG_185	Leakage	Ijunc_P_185		
+M_LKG_186	Leakage	Ijunc_N_186		
+M_LKG_187	Leakage	Ijunc_P_187		
+M_LKG_188	Leakage	Ijunc_N_188		
+M_LKG_189	Leakage	Ijunc_P_189		
+M_LKG_190	Leakage	Ijunc_N_190		
+M_LKG_191	Leakage	Ijunc_P_191		
+M_LKG_192	Leakage	Ijunc_N_192		
+M_LKG_193	Leakage	Ijunc_P_193		
+M_LKG_194	Leakage	Ijunc_N_194		
+M_LKG_195	Leakage	Ijunc_P_195		
+M_LKG_196	Leakage	Ijunc_N_196		
+M_LKG_197	Leakage	Ijunc_P_197		
+M_LKG_198	Leakage	Ijunc_N_198		
+M_LKG_199	Leakage	Ijunc_P_199		
+M_LKG_200	Leakage	Ijunc_N_200		
+M_LKG_201	Leakage	Ijunc_P_201		
+M_LKG_202	Leakage	Ijunc_N_202		
+M_LKG_203	Leakage	Ijunc_P_203		
+M_LKG_204	Leakage	Ijunc_N_204		
+M_LKG_205	Leakage	Ijunc_P_205		
+M_LKG_206	Leakage	Ijunc_N_206		
+M_LKG_207	Leakage	Ijunc_P_207		
+M_LKG_208	Leakage	Ijunc_N_208		
+M_LKG_209	Leakage	Ijunc_P_209		
+M_LKG_210	Leakage	Ijunc_N_210		
+M_LKG_211	Leakage	Ijunc_P_211		
+M_LKG_212	Leakage	Ijunc_N_212		
+M_LKG_213	Leakage	Ijunc_P_213		
+M_LKG_214	Leakage	Ijunc_N_214		
+M_LKG_215	Leakage	Ijunc_P_215		
+M_LKG_216	Leakage	Ijunc_N_216		
+M_LKG_217	Leakage	Ijunc_P_217		
+M_LKG_218	Leakage	Ijunc_N_218		
+M_LKG_219	Leakage	Ijunc_P_219		
+M_LKG_220	Leakage	Ijunc_N_220		
+M_LKG_221	Leakage	Ijunc_P_221		
+M_LKG_222	Leakage	Ijunc_N_222		
+M_LKG_223	Leakage	Ijunc_P_223		
+M_LKG_224	Leakage	Ijunc_N_224		
+M_LKG_225	Leakage	Ijunc_P_225		
+M_LKG_226	Leakage	Ijunc_N_226		
+M_LKG_227	Leakage	Ijunc_P_227		
+M_LKG_228	Leakage	Ijunc_N_228		
+M_LKG_229	Leakage	Ijunc_P_229		
+M_LKG_230	Leakage	Ijunc_N_230		
+M_LKG_231	Leakage	Ijunc_P_231		
+M_LKG_232	Leakage	Ijunc_N_232		
+M_LKG_233	Leakage	Ijunc_P_233		
+M_LKG_234	Leakage	Ijunc_N_234		
+M_LKG_235	Leakage	Ijunc_P_235		
+M_LKG_236	Leakage	Ijunc_N_236		
+M_LKG_237	Leakage	Ijunc_P_237		
+M_LKG_238	Leakage	Ijunc_N_238		
+M_LKG_239	Leakage	Ijunc_P_239		
+M_LKG_240	Leakage	Ijunc_N_240		
+M_LKG_241	Leakage	Ijunc_P_241		
+M_LKG_242	Leakage	Ijunc_N_242		
+M_LKG_243	Leakage	Ijunc_P_243		
+M_LKG_244	Leakage	Ijunc_N_244		
+M_LKG_245	Leakage	Ijunc_P_245		
+M_LKG_246	Leakage	Ijunc_N_246		
+M_LKG_247	Leakage	Ijunc_P_247		
+M_LKG_248	Leakage	Ijunc_N_248		
+M_LKG_249	Leakage	Ijunc_P_249		
+M_LKG_250	Leakage	Ijunc_N_250		
+M_LKG_251	Leakage	Ijunc_P_251		
+M_LKG_252	Leakage	Ijunc_N_252		
+M_LKG_253	Leakage	Ijunc_P_253		
+M_LKG_254	Leakage	Ijunc_N_254		
+M_LKG_255	Leakage	Ijunc_P_255		
+M_LKG_256	Leakage	Ijunc_N_256		
+M_LKG_257	Leakage	Ijunc_P_257		
+M_LKG_258	Leakage	Ijunc_N_258		
+M_LKG_259	Leakage	Ijunc_P_259		
+M_LKG_260	Leakage	Ijunc_N_260		
+M_LKG_261	Leakage	Ijunc_P_261		
+M_LKG_262	Leakage	Ijunc_N_262		
+M_LKG_263	Leakage	Ijunc_P_263		
+M_LKG_264	Leakage	Ijunc_N_264		
+M_LKG_265	Leakage	Ijunc_P_265		
+M_LKG_266	Leakage	Ijunc_N_266		
+M_LKG_267	Leakage	Ijunc_P_267		
+M_LKG_268	Leakage	Ijunc_N_268		
+M_LKG_269	Leakage	Ijunc_P_269		
+M_LKG_270	Leakage	Ijunc_N_270		
+M_LKG_271	Leakage	Ijunc_P_271		
+M_LKG_272	Leakage	Ijunc_N_272		
+M_LKG_273	Leakage	Ijunc_P_273		
+M_LKG_274	Leakage	Ijunc_N_274		
+M_LKG_275	Leakage	Ijunc_P_275		
+M_LKG_276	Leakage	Ijunc_N_276		
+M_LKG_277	Leakage	Ijunc_P_277		
+M_LKG_278	Leakage	Ijunc_N_278		
+M_LKG_279	Leakage	Ijunc_P_279		
+M_LKG_280	Leakage	Ijunc_N_280		
+M_LKG_281	Leakage	Ijunc_P_281		
+M_LKG_282	Leakage	Ijunc_N_282		
+M_LKG_283	Leakage	Ijunc_P_283		
+M_LKG_284	Leakage	Ijunc_N_284		
+M_LKG_285	Leakage	Ijunc_P_285		
+M_LKG_286	Leakage	Ijunc_N_286		
+M_LKG_287	Leakage	Ijunc_P_287		
+M_LKG_288	Leakage	Ijunc_N_288		
+M_LKG_289	Leakage	Ijunc_P_289		
+M_LKG_290	Leakage	Ijunc_N_290		
+M_LKG_291	Leakage	Ijunc_P_291		
+M_LKG_292	Leakage	Ijunc_N_292		
+M_LKG_293	Leakage	Ijunc_P_293		
+M_LKG_294	Leakage	Ijunc_N_294		
+M_LKG_295	Leakage	Ijunc_P_295		
+M_LKG_296	Leakage	Ijunc_N_296		
+M_LKG_297	Leakage	Ijunc_P_297		
+M_LKG_298	Leakage	Ijunc_N_298		
+M_LKG_299	Leakage	Ijunc_P_299		
+M_LKG_300	Leakage	Ijunc_N_300		
+M_LKG_301	Leakage	Ijunc_P_301		
+M_LKG_302	Leakage	Ijunc_N_302		
+M_LKG_303	Leakage	Ijunc_P_303		
+M_LKG_304	Leakage	Ijunc_N_304		
+M_LKG_305	Leakage	Ijunc_P_305		
+M_LKG_306	Leakage	Ijunc_N_306		
+M_LKG_307	Leakage	Ijunc_P_307		
+M_LKG_308	Leakage	Ijunc_N_308		
+M_LKG_309	Leakage	Ijunc_P_309		
+M_LKG_310	Leakage	Ijunc_N_310		
+P_CAP_001	Capacitance	Cox_P_001	0.02218	0.01565
+P_CAP_002	Capacitance	Cox_N_002	3181	2297
+P_CAP_003	Capacitance	Cox_P_003	5.472	4.266
+P_CAP_004	Capacitance	Cox_N_004	125.6	84.43
+P_CAP_005	Capacitance	Cox_P_005	5.249	3.813
+P_CAP_006	Capacitance	Cox_N_006	1.141	0.8794
+P_CAP_007	Capacitance	Cox_P_007	5445	3793
+P_CAP_008	Capacitance	Cox_N_008	3.848	3.185
+P_CAP_009	Capacitance	Cox_P_009	0.03587	0.02814
+P_CAP_010	Capacitance	Cox_N_010	138.8	114.4
+P_CAP_011	Capacitance	Cox_P_011	41.93	39.12
+P_CAP_012	Capacitance	Cox_N_012	188.8	130.3
+P_CAP_013	Capacitance	Cox_P_013	25.2	19.4
+P_CAP_014	Capacitance	Cox_N_014	13.9	11.64
+P_CAP_015	Capacitance	Cox_P_015	177.2	145.3
+P_CAP_016	Capacitance	Cox_N_016	4752	3182
+P_CAP_017	Capacitance	Cox_P_017	2.416	2.258
+P_CAP_018	Capacitance	Cox_N_018	2500	1790
+P_CAP_019	Capacitance	Cox_P_019	4.391	3.244
+P_CAP_020	Capacitance	Cox_N_020	0.04343	0.03823
+P_CAP_021	Capacitance	Cox_P_021	0.004273	0.00383
+P_CAP_022	Capacitance	Cox_N_022	0.5585	0.4212
+P_CAP_023	Capacitance	Cox_P_023	4093	3064
+P_CAP_024	Capacitance	Cox_N_024	1.245	1.085
+P_CAP_025	Capacitance	Cox_P_025	0.01258	0.009663
+P_CAP_026	Capacitance	Cox_N_026	30.76	21.72
+P_CAP_027	Capacitance	Cox_P_027	51.33	39.37
+P_CAP_028	Capacitance	Cox_N_028	2.059	1.882
+P_CAP_029	Capacitance	Cox_P_029	0.02281	0.01891
+P_CAP_030	Capacitance	Cox_N_030	51.89	43.35
+P_CAP_031	Capacitance	Cox_P_031	1574	1231
+P_CAP_032	Capacitance	Cox_N_032	0.0583	0.03369
+P_CAP_033	Capacitance	Cox_P_033	0.8544	0.6467
+P_CAP_034	Capacitance	Cox_N_034	2.67	2.227
+P_CAP_035	Capacitance	Cox_P_035	48.39	37.7
+P_CAP_036	Capacitance	Cox_N_036	5.862	4.131
+P_CAP_037	Capacitance	Cox_P_037	0.02208	0.01999
+P_CAP_038	Capacitance	Cox_N_038	45.87	35.2
+P_CAP_039	Capacitance	Cox_P_039	173.4	161.9
+P_CAP_040	Capacitance	Cox_N_040	49.57	43.51
+P_CAP_041	Capacitance	Cox_P_041	0.02175	0.01953
+P_CAP_042	Capacitance	Cox_N_042	3238	2518
+P_CAP_043	Capacitance	Cox_P_043	0.01605	0.01232
+P_CAP_044	Capacitance	Cox_N_044	0.3945	0.3003
+P_CAP_045	Capacitance	Cox_P_045	4.13	3.444
+P_CAP_046	Capacitance	Cox_N_046	150.5	120.9
+P_CAP_047	Capacitance	Cox_P_047	3.714	2.443
+P_CAP_048	Capacitance	Cox_N_048	3.507	2.527
+P_CAP_049	Capacitance	Cox_P_049	42.33	30.43
+P_CAP_050	Capacitance	Cox_N_050	0.2699	0.2228
+P_CAP_051	Capacitance	Cox_P_051	4664	2914
+P_CAP_052	Capacitance	Cox_N_052	0.7062	0.4594
+P_CAP_053	Capacitance	Cox_P_053	4.748	3.266
+P_CAP_054	Capacitance	Cox_N_054	0.01576	0.01409
+P_CAP_055	Capacitance	Cox_P_055	20.87	15.26
+P_CAP_056	Capacitance	Cox_N_056	4.858	4.336
+P_CAP_057	Capacitance	Cox_P_057	1.887	1.65
+P_CAP_058	Capacitance	Cox_N_058	0.01305	0.009345
+P_CAP_059	Capacitance	Cox_P_059	0.03562	0.022
+P_CAP_060	Capacitance	Cox_N_060	184.4	119.6
+P_CAP_061	Capacitance	Cox_P_061	4.59	4.223
+P_CAP_062	Capacitance	Cox_N_062	42.52	32.88
+P_CAP_063	Capacitance	Cox_P_063	42.88	33.21
+P_CAP_064	Capacitance	Cox_N_064	1904	1583
+P_CAP_065	Capacitance	Cox_P_065	225.8	175.8
+P_CAP_066	Capacitance	Cox_N_066	137.9	106.8
+P_CAP_067	Capacitance	Cox_P_067	0.832	0.5713
+P_CAP_068	Capacitance	Cox_N_068	3976	3055
+P_CAP_069	Capacitance	Cox_P_069	1511	1081
+P_CAP_070	Capacitance	Cox_N_070	4.214	3.867
+P_CAP_071	Capacitance	Cox_P_071	47.44	36.14
+P_CAP_072	Capacitance	Cox_N_072	0.2963	0.2266
+P_CAP_073	Capacitance	Cox_P_073	1.777	1.217
+P_CAP_074	Capacitance	Cox_N_074	185.4	160.8
+P_CAP_075	Capacitance	Cox_P_075	200.5	144.1
+P_CAP_076	Capacitance	Cox_N_076	109.6	100.8
+P_CAP_077	Capacitance	Cox_P_077	2791	2136
+P_CAP_078	Capacitance	Cox_N_078	203.6	150.5
+P_CAP_079	Capacitance	Cox_P_079	13.64	10.68
+P_CAP_080	Capacitance	Cox_N_080	222.5	168.7
+P_CAP_081	Capacitance	Cox_P_081	0.02009	0.01511
+P_CAP_082	Capacitance	Cox_N_082	5.745	4.14
+P_CAP_083	Capacitance	Cox_P_083	43.62	31.62
+P_CAP_084	Capacitance	Cox_N_084	4868	3920
+P_CAP_085	Capacitance	Cox_P_085	2030	1523
+P_CAP_086	Capacitance	Cox_N_086	130	105.6
+P_CAP_087	Capacitance	Cox_P_087	183	151.1
+P_CAP_088	Capacitance	Cox_N_088	14.5	10.02
+P_CAP_089	Capacitance	Cox_P_089	177.1	127.4
+P_CAP_090	Capacitance	Cox_N_090	4.421	3.181
+P_CAP_091	Capacitance	Cox_P_091	44.03	30.9
+P_CAP_092	Capacitance	Cox_N_092	3.909	2.837
+P_CAP_093	Capacitance	Cox_P_093	53.02	40.77
+P_CAP_094	Capacitance	Cox_N_094	2.176	1.76
+P_CAP_095	Capacitance	Cox_P_095	3137	2622
+P_CAP_096	Capacitance	Cox_N_096	174.6	138.4
+P_CAP_097	Capacitance	Cox_P_097	3.727	3.254
+P_CAP_098	Capacitance	Cox_N_098	177.7	131.9
+P_CAP_099	Capacitance	Cox_P_099	30.95	22.06
+P_CAP_100	Capacitance	Cox_N_100	0.03173	0.02109
+P_CAP_101	Capacitance	Cox_P_101	0.02354	0.01656
+P_CAP_102	Capacitance	Cox_N_102	0.2777	0.2007
+P_CAP_103	Capacitance	Cox_P_103	47.47	37.66
+P_CAP_104	Capacitance	Cox_N_104	0.7342	0.5126
+P_CAP_105	Capacitance	Cox_P_105	0.2885	0.2131
+P_CAP_106	Capacitance	Cox_N_106	1891	1470
+P_CAP_107	Capacitance	Cox_P_107	4974	3773
+P_CAP_108	Capacitance	Cox_N_108	230.4	163.8
+P_CAP_109	Capacitance	Cox_P_109	0.05712	0.03698
+P_CAP_110	Capacitance	Cox_N_110	0.9198	0.8356
+P_CAP_111	Capacitance	Cox_P_111	194.1	142.7
+P_CAP_112	Capacitance	Cox_N_112	5.368	4.432
+P_CAP_113	Capacitance	Cox_P_113	32.65	25.35
+P_CAP_114	Capacitance	Cox_N_114	0.9238	0.768
+P_CAP_115	Capacitance	Cox_P_115	1.88	1.502
+P_CAP_116	Capacitance	Cox_N_116	0.6043	0.474
+P_CAP_117	Capacitance	Cox_P_117	60.17	38.67
+P_CAP_118	Capacitance	Cox_N_118	4804	3420
+P_CAP_119	Capacitance	Cox_P_119	60.53	53.47
+P_CAP_120	Capacitance	Cox_N_120	2974	2411
+P_CAP_121	Capacitance	Cox_P_121	32.02	22.61
+P_CAP_122	Capacitance	Cox_N_122	2170	1657
+P_CAP_123	Capacitance	Cox_P_123	0.001838	0.00129
+P_CAP_124	Capacitance	Cox_N_124	147	114.6
+P_CAP_125	Capacitance	Cox_P_125	191	135.8
+P_CAP_126	Capacitance	Cox_N_126	3.129	2.187
+P_CAP_127	Capacitance	Cox_P_127	4181	3231
+P_CAP_128	Capacitance	Cox_N_128	2.969	2.258
+P_CAP_129	Capacitance	Cox_P_129	196.4	162.8
+P_CAP_130	Capacitance	Cox_N_130	0.2641	0.2342
+P_CAP_131	Capacitance	Cox_P_131	34.99	30.66
+P_CAP_132	Capacitance	Cox_N_132	0.5358	0.3785
+P_CAP_133	Capacitance	Cox_P_133	5498	4171
+P_CAP_134	Capacitance	Cox_N_134	0.3111	0.2751
+P_CAP_135	Capacitance	Cox_P_135	3026	2535
+P_CAP_136	Capacitance	Cox_N_136	0.626	0.573
+P_CAP_137	Capacitance	Cox_P_137	1.813	1.574
+P_CAP_138	Capacitance	Cox_N_138	0.567	0.4647
+P_CAP_139	Capacitance	Cox_P_139	53.16	44.54
+P_CAP_140	Capacitance	Cox_N_140	2.899	2.241
+P_CAP_141	Capacitance	Cox_P_141	0.01551	0.01153
+P_CAP_142	Capacitance	Cox_N_142	3631	2834
+P_CAP_143	Capacitance	Cox_P_143	4.596	3.836
+P_CAP_144	Capacitance	Cox_N_144	1.479	1.235
+P_CAP_145	Capacitance	Cox_P_145	214.4	160.7
+P_CAP_146	Capacitance	Cox_N_146	0.01643	0.01301
+P_CAP_147	Capacitance	Cox_P_147	4607	3586
+P_CAP_148	Capacitance	Cox_N_148	0.003128	0.002362
+P_CAP_149	Capacitance	Cox_P_149	3473	2468
+P_CAP_150	Capacitance	Cox_N_150	2.4	2.247
+P_CAP_151	Capacitance	Cox_P_151	4833	3489
+P_CAP_152	Capacitance	Cox_N_152	110.8	86.75
+P_CAP_153	Capacitance	Cox_P_153	3.15	2.039
+P_CAP_154	Capacitance	Cox_N_154	32.98	25.57
+P_CAP_155	Capacitance	Cox_P_155	2296	1986
+P_CAP_156	Capacitance	Cox_N_156	0.8491	0.7567
+P_CAP_157	Capacitance	Cox_P_157	5.236	4.413
+P_CAP_158	Capacitance	Cox_N_158	1403	1213
+P_CAP_159	Capacitance	Cox_P_159	191.5	179.4
+P_CAP_160	Capacitance	Cox_N_160	4.6	3.273
+P_CAP_161	Capacitance	Cox_P_161	3853	3024
+P_CAP_162	Capacitance	Cox_N_162	4833	3050
+P_CAP_163	Capacitance	Cox_P_163	134.6	98.18
+P_CAP_164	Capacitance	Cox_N_164	185	129.7
+P_CAP_165	Capacitance	Cox_P_165	0.0406	0.03505
+P_CAP_166	Capacitance	Cox_N_166	0.7578	0.6496
+P_CAP_167	Capacitance	Cox_P_167	225.2	165.6
+P_CAP_168	Capacitance	Cox_N_168	4964	4035
+P_CAP_169	Capacitance	Cox_P_169	0.6764	0.6036
+P_CAP_170	Capacitance	Cox_N_170	0.05455	0.03803
+P_CAP_171	Capacitance	Cox_P_171	1974	1421
+P_CAP_172	Capacitance	Cox_N_172	1722	1605
+P_CAP_173	Capacitance	Cox_P_173	2604	2350
+P_CAP_174	Capacitance	Cox_N_174	0.05102	0.04476
+P_CAP_175	Capacitance	Cox_P_175	4.766	4.353
+P_CAP_176	Capacitance	Cox_N_176	5.511	4.22
+P_CAP_177	Capacitance	Cox_P_177	22.54	15.85
+P_CAP_178	Capacitance	Cox_N_178	0.4416	0.3586
+P_CAP_179	Capacitance	Cox_P_179	23.61	16.39
+P_CAP_180	Capacitance	Cox_N_180	176.6	136.9
+P_CAP_181	Capacitance	Cox_P_181	191.8	136
+P_CAP_182	Capacitance	Cox_N_182	0.5148	0.4445
+P_CAP_183	Capacitance	Cox_P_183	0.04322	0.03082
+P_CAP_184	Capacitance	Cox_N_184	2218	1533
+P_CAP_185	Capacitance	Cox_P_185	0.005181	0.003947
+P_CAP_186	Capacitance	Cox_N_186	0.7059	0.6338
+P_CAP_187	Capacitance	Cox_P_187	132.6	107.7
+P_CAP_188	Capacitance	Cox_N_188	0.02742	0.02543
+P_CAP_189	Capacitance	Cox_P_189	31.52	25.9
+P_CAP_190	Capacitance	Cox_N_190	0.009619	0.007314
+P_CAP_191	Capacitance	Cox_P_191	3076	2825
+P_CAP_192	Capacitance	Cox_N_192	160.4	113.4
+P_CAP_193	Capacitance	Cox_P_193	3255	-3496
+P_CAP_194	Capacitance	Cox_N_194	28.34	21.4
+P_CAP_195	Capacitance	Cox_P_195	0.5036	0.4684
+P_CAP_196	Capacitance	Cox_N_196	0.267	0.235
+P_CAP_197	Capacitance	Cox_P_197	18.47	13.85
+P_CAP_198	Capacitance	Cox_N_198	1079	1005
+P_CAP_199	Capacitance	Cox_P_199	31.37	25.37
+P_CAP_200	Capacitance	Cox_N_200	38.53	31.47
+P_CAP_201	Capacitance	Cox_P_201	2096	1769
+P_CAP_202	Capacitance	Cox_N_202	111.9	99.67
+P_CAP_203	Capacitance	Cox_P_203	0.04723	0.03703
+P_CAP_204	Capacitance	Cox_N_204	3.472	2.956
+P_CAP_205	Capacitance	Cox_P_205	2.266	1.32
+P_CAP_206	Capacitance	Cox_N_206	56.02	41.15
+P_CAP_207	Capacitance	Cox_P_207	0.9987	0.7097
+P_CAP_208	Capacitance	Cox_N_208	48.09	36.8
+P_CAP_209	Capacitance	Cox_P_209	0.02012	0.01798
+P_CAP_210	Capacitance	Cox_N_210	1831	1216
+P_CAP_211	Capacitance	Cox_P_211	31.26	24.6
+P_CAP_212	Capacitance	Cox_N_212	74.75	25.33
+P_CAP_213	Capacitance	Cox_P_213	4.294	3.423
+P_CAP_214	Capacitance	Cox_N_214	4646	3554
+P_CAP_215	Capacitance	Cox_P_215	49.54	45.12
+P_CAP_216	Capacitance	Cox_N_216	1.192	0.9746
+P_CAP_217	Capacitance	Cox_P_217	1664	1416
+P_CAP_218	Capacitance	Cox_N_218	145.1	109.8
+P_CAP_219	Capacitance	Cox_P_219	0.01788	0.01432
+P_CAP_220	Capacitance	Cox_N_220	20.44	18.86
+P_CAP_221	Capacitance	Cox_P_221	16.82	12.98
+P_CAP_222	Capacitance	Cox_N_222	2885	2179
+P_CAP_223	Capacitance	Cox_P_223	3.232	2.458
+P_CAP_224	Capacitance	Cox_N_224	0.8938	0.6405
+P_CAP_225	Capacitance	Cox_P_225	0.02588	0.02193
+P_CAP_226	Capacitance	Cox_N_226	1.044	0.6659
+P_CAP_227	Capacitance	Cox_P_227	1163	887
+P_CAP_228	Capacitance	Cox_N_228	1832	1392
+P_CAP_229	Capacitance	Cox_P_229	163.3	139.6
+P_CAP_230	Capacitance	Cox_N_230	49.59	35.12
+P_CAP_231	Capacitance	Cox_P_231	179.2	128
+P_CAP_232	Capacitance	Cox_N_232	0.02862	0.0197
+P_CAP_233	Capacitance	Cox_P_233	0.8186	0.7143
+P_CAP_234	Capacitance	Cox_N_234	1292	1181
+P_CAP_235	Capacitance	Cox_P_235	150.5	130.9
+P_CAP_236	Capacitance	Cox_N_236	0.7985	0.675
+P_CAP_237	Capacitance	Cox_P_237	0.4839	0.4446
+P_CAP_238	Capacitance	Cox_N_238	0.7137	0.4947
+P_CAP_239	Capacitance	Cox_P_239	47.14	34.04
+P_CAP_240	Capacitance	Cox_N_240	0.3126	0.2274
+P_CAP_241	Capacitance	Cox_P_241	0.01352	0.009267
+P_CAP_242	Capacitance	Cox_N_242	202.3	176.1
+P_CAP_243	Capacitance	Cox_P_243	1.075	0.6498
+P_CAP_244	Capacitance	Cox_N_244	5086	3963
+P_CAP_245	Capacitance	Cox_P_245	12.4	11.26
+P_CAP_246	Capacitance	Cox_N_246	0.3981	0.2794
+P_CAP_247	Capacitance	Cox_P_247	194.2	171.8
+P_CAP_248	Capacitance	Cox_N_248	3880	3497
+P_CAP_249	Capacitance	Cox_P_249	1495	1050
+P_CAP_250	Capacitance	Cox_N_250	26.27	22.53
+P_CAP_251	Capacitance	Cox_P_251	0.006216	0.004343
+P_CAP_252	Capacitance	Cox_N_252	0.02448	0.02108
+P_CAP_253	Capacitance	Cox_P_253	2.921	2.093
+P_CAP_254	Capacitance	Cox_N_254	4.703	3.376
+P_CAP_255	Capacitance	Cox_P_255	2.767	2.163
+P_CAP_256	Capacitance	Cox_N_256	141.3	92.06
+P_CAP_257	Capacitance	Cox_P_257	0.8218	0.7415
+P_CAP_258	Capacitance	Cox_N_258	39.15	33.19
+P_CAP_259	Capacitance	Cox_P_259	119	88.25
+P_CAP_260	Capacitance	Cox_N_260	141.4	126.9
+P_CAP_261	Capacitance	Cox_P_261	55.32	39.91
+P_CAP_262	Capacitance	Cox_N_262	0.6474	0.4964
+P_CAP_263	Capacitance	Cox_P_263	0.006891	0.005208
+P_CAP_264	Capacitance	Cox_N_264	59.9	42.1
+P_CAP_265	Capacitance	Cox_P_265	3011	2377
+P_CAP_266	Capacitance	Cox_N_266	0.01313	0.01183
+P_CAP_267	Capacitance	Cox_P_267	3946	3640
+P_CAP_268	Capacitance	Cox_N_268	14.03	10.51
+P_CAP_269	Capacitance	Cox_P_269	0.5081	0.3591
+P_CAP_270	Capacitance	Cox_N_270	146.4	121.9
+P_CAP_271	Capacitance	Cox_P_271	2.787	2.182
+P_CAP_272	Capacitance	Cox_N_272	0.4038	0.3463
+P_CAP_273	Capacitance	Cox_P_273	2034	1654
+P_CAP_274	Capacitance	Cox_N_274	2.095	1.432
+P_CAP_275	Capacitance	Cox_P_275	160.1	118.3
+P_CAP_276	Capacitance	Cox_N_276	4.352	3.3
+P_CAP_277	Capacitance	Cox_P_277	0.8927	0.7489
+P_CAP_278	Capacitance	Cox_N_278	52.45	42.51
+P_CAP_279	Capacitance	Cox_P_279	0.08559	-0.01644
+P_CAP_280	Capacitance	Cox_N_280	195.7	161.3
+P_CAP_281	Capacitance	Cox_P_281	19.17	15.42
+P_CAP_282	Capacitance	Cox_N_282	37.55	32.9
+P_CAP_283	Capacitance	Cox_P_283	0.3905	0.2274
+P_CAP_284	Capacitance	Cox_N_284	3377	2296
+P_CAP_285	Capacitance	Cox_P_285	0.05494	0.03601
+P_CAP_286	Capacitance	Cox_N_286	0.04406	0.03304
+P_CAP_287	Capacitance	Cox_P_287	28.86	23.33
+P_CAP_288	Capacitance	Cox_N_288	0.008757	0.006894
+P_CAP_289	Capacitance	Cox_P_289	0.5388	0.5029
+P_CAP_290	Capacitance	Cox_N_290	0.2993	0.2733
+P_CAP_291	Capacitance	Cox_P_291	1.905	0.7611
+P_CAP_292	Capacitance	Cox_N_292	0.5639	0.403
+P_CAP_293	Capacitance	Cox_P_293	0.01646	0.01358
+P_CAP_294	Capacitance	Cox_N_294	50.6	42.67
+P_CAP_295	Capacitance	Cox_P_295	0.04691	0.03268
+P_CAP_296	Capacitance	Cox_N_296	1861	1298
+P_CAP_297	Capacitance	Cox_P_297	0.817	0.5843
+P_CAP_298	Capacitance	Cox_N_298	38.56	28.17
+P_CAP_299	Capacitance	Cox_P_299	0.01699	0.01234
+P_CAP_300	Capacitance	Cox_N_300	148.2	100.7
+P_CAP_301	Capacitance	Cox_P_301	35.85	32.31
+P_CAP_302	Capacitance	Cox_N_302	29.55	22.45
+P_CAP_303	Capacitance	Cox_P_303	210.3	185.6
+P_CAP_304	Capacitance	Cox_N_304	177.2	125.3
+P_CAP_305	Capacitance	Cox_P_305	124.3	74.02
+P_CAP_306	Capacitance	Cox_N_306	1728	1128
+P_CAP_307	Capacitance	Cox_P_307	0.9677	0.6814
+P_CAP_308	Capacitance	Cox_N_308	48.81	41.99
+P_CAP_309	Capacitance	Cox_P_309	1.218	0.8888
+P_CAP_310	Capacitance	Cox_N_310	3.087	2.193
+]
