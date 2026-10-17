@@ -1,6 +1,5 @@
 ***V8_1Tb_TLC_CR***
 [
-PARTID	응용처
 PJU	SSD
 PJT	cSSD
 PSR	Card
@@ -11,7 +10,6 @@ PJ6	Auto
 
 ***V8_512Gb_TLC_CU***
 [
-PARTID	응용처
 PJS	SSD
 PJT	cSSD
 PS3	Card
