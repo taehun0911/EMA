@@ -1,6 +1,5 @@
 ***V8_1Tb_CR***
 [
-MSR	Category	Description	H-Limit	L-Limit
 M_IVC_001	Leakage	Ioff_P_001		
 M_IVC_002	Leakage	Ioff_N_002		
 M_IVC_003	Leakage	Ioff_P_003		
